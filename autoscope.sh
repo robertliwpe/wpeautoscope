@@ -81,6 +81,8 @@ rec6m=$(echo "($account99+$account95)/2" | bc)
 
 printf "\r\nCALCULATED BSPH VALUES:\r\n==========\r\nAverage: $accountavg\r\nMedian: $accountmedian\r\nMaxVal: $accountmax\r\nMinVal: $accountmin\r\n99pc: $account99\r\n95pc: $account95\r\n\r\n30-day Average: $accountavg30\r\n30-day Median: $accountmedian30\r\n30-day MaxVal: $accountmax30\r\n30-day MinVal: $accountmin30\r\n30-day 95pc: $account9530\r\n"
 
+printf "\r\nNOTE: Do NOT disclose Core Count information to customers.\r\n"
+
 printf "\r\n6 MONTH WORKLOAD SCOPE\r\n==========\r\n"
 printf "MINIMALLY REQUIRED:\r\n"
 cat $bsphcoreconvlocvar | awk -v mv6m=$minvi6mo -F',' '{if ($1 == mv6m) print $2, "Cores - Plan", $3;}'
@@ -94,7 +96,7 @@ cat $bsphcoreconvlocvar | awk -v mv30d=$minvi30d -F',' '{if ($1 == mv30d) print 
 printf "RECOMMENDED:\r\n"
 cat $bsphcoreconvlocvar | awk -v acc9530=$account9530 -F',' '{if ($1 == acc9530) print $2, "Cores - Plan", $3;}'
 
-printf "\r\nScope Complete...\r\n\r\n"
+printf "\r\nScope Complete...\r\nNOTE: This is based on HISTORICAL DATA and provides NO FORWARD GUIDANCE if conditions change. Please plan accordingly.\r\n\r\n"
 
 while true; do
     read -p "Would you like to keep the working files? (Y/n) " yn
