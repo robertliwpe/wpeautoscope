@@ -101,8 +101,9 @@ printf "\r\nScope Complete...\r\nNOTE: This is based on HISTORICAL DATA and prov
 while true; do
     read -p "Would you like to keep the working files? (Y/n) " yn
     case $yn in
-        [Yy]* ) printf "Access the working files for the Scoping Tool at: /Users/$USER/desktop/Scoping Tool/$account-$tstamp\r\n\r\n"; exit;;
-        [Nn]* ) printf "Cleaning up after myself...\r\n\r\n"; echo "Deleting"; rm -rfv /Users/$USER/desktop/Scoping\ Tool/$account-$tstamp/; printf "\r\nDONE... Bye!\r\n\r\n"; exit;;
+        [Yy]* ) printf "Access the working files for the Scoping Tool at: /Users/$USER/desktop/Scoping Tool/$account-$tstamp\r\n\r\n"; sleep 3; exit;;
+        [Nn]* ) printf "Cleaning up after myself...\r\n\r\n"; echo "Deleting"; rm -rfv /Users/$USER/desktop/Scoping\ Tool/$account-$tstamp/; printf "\r\nDONE... Bye!\r\n\r\n"; sleep 3; exit;;
         * ) echo "Input not recognized. Please answer y or n.";;
     esac
 done
+
