@@ -62,7 +62,7 @@ printf "\r\nFinished building account.csv file!\r\n"
 accountavg=$(cat /Users/$USER/desktop/Scoping\ Tool/$account-$tstamp/account.csv | awk -F',' '{ total += $4; count++ } END { print total/count}')
 accountmax=$(cat /Users/$USER/desktop/Scoping\ Tool/$account-$tstamp/account.csv | awk -F',' '{print $4}' | sort -rn | head -1)
 accountmin=$(cat /Users/$USER/desktop/Scoping\ Tool/$account-$tstamp/account.csv | awk -F',' '{print $4}' | sort -rn | tail -1)
-account99=$(cat /Users/$USER/desktop/Scoping\ Tool/$account-$tstamp/account.csv | awk -F',' '{print $4}' | sort -rn | head -3 | tail -1)
+account99=$(cat /Users/$USER/desktop/Scoping\ Tool/$account-$tstamp/account.csv | awk -F',' '{print $4}' | sort -rn | head -2 | tail -1)
 account95=$(cat /Users/$USER/desktop/Scoping\ Tool/$account-$tstamp/account.csv | awk -F',' '{print $4}' | sort -rn | head -9 | tail -1)
 accountmedian=$(cat /Users/$USER/desktop/Scoping\ Tool/$account-$tstamp/account.csv | awk -F',' '{print $4}' | sort -rn | head -90 | tail -1)
 
@@ -72,8 +72,12 @@ accountmin30=$(cat /Users/$USER/desktop/Scoping\ Tool/$account-$tstamp/account.c
 account9530=$(cat /Users/$USER/desktop/Scoping\ Tool/$account-$tstamp/account.csv | head -30 | awk -F',' '{print $4}' | sort -rn | head -2 | tail -1)
 accountmedian30=$(cat /Users/$USER/desktop/Scoping\ Tool/$account-$tstamp/account.csv | awk -F',' '{print $4}' | sort -rn | head -15 | tail -1)
 
-premin6m=$(expr $account95 + $(echo "($accountavg+0.5)/1" | bc))
-premin30d=$(expr $account9530 + $(echo "($accountavg30+0.5)/1" | bc))
+# premin6m=$(expr $account95 + $(echo "($accountavg+0.5)/1" | bc))
+# premin30d=$(expr $account9530 + $(echo "($accountavg30+0.5)/1" | bc))
+# premin30d=$(echo "$account9530*2" | bc)
+
+premin6m=$(echo "$account95*2" | bc)
+premin30d=$(expr $account9530 + $(echo "($accountmedian30+0.5)/1" | bc))
 minvi6mo=$(echo "$premin6m/2" | bc)
 minvi30d=$(echo "$premin30d/2" | bc)
 
@@ -88,7 +92,7 @@ printf "MINIMALLY REQUIRED:\r\n"
 cat $bsphcoreconvlocvar | awk -v mv6m=$minvi6mo -F',' '{if ($1 == mv6m) print $2, "Cores - Plan", $3;}'
 printf "RECOMMENDED:\r\n"
 cat $bsphcoreconvlocvar | awk -v r6m=$rec6m -F',' '{if ($1 == r6m) print $2, "Cores - Plan", $3;}'
-printf "CONSERVATIVE MAXVAL:\r\n"
+printf "CONSERVATIVE 99pc VALUES:\r\n"
 cat $bsphcoreconvlocvar | awk -v acc99=$account99 -F',' '{if ($1 == acc99) print $2, "Cores - Plan", $3;}'
 printf "\r\n30-DAY WORKLOAD SCOPE\r\n==========\r\n"
 printf "MINIMALLY REQUIRED:\r\n"
