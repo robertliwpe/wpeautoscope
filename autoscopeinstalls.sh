@@ -1,2 +1,2 @@
 #!/bin/bash=
-inst="aafe aafe0 aafe001 abiquawindvin2 adventuremed0 adventuremedi1 bendfilm bendfilm10boom bgcbend bluefishdent boneyardbeer confluencefl0 couchballoons cruxferm darkandgrey darkandgreyst dashidentyo dentinstrumen0 dentinstrumen1 dentinstrumen2 elcaporal2 ghosttree headliness2 jessicalee jimastephens kollective kollectivedoc1 kollectivedoc2 kollectivestg nwcustomlogho2 pixelsilk precinctstrat2 pubaskfred02 pubbrandyauto2 pubdeschchild2 pubforthdist2 pubfortint2 pubwineraffle2 rasmussenmaso2 rogue5media0 rootvaluation2 runnergirlben velox2020"
+inst=""
