@@ -561,3 +561,4 @@ cython_debug/
 # Custom
 .DS_Store
 /logs
+/autoscopeinstalls.sh
