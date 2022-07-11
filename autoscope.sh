@@ -89,14 +89,14 @@ printf "\r\nNOTE: Do NOT disclose Core Count information to customers.\r\n"
 
 printf "\r\n6 MONTH WORKLOAD SCOPE\r\n==========\r\n"
 printf "MINIMALLY REQUIRED:\r\n"
-cat $bsphcoreconvlocvar | awk -v mv6m=$minvi6mo -F',' '{if ($1 == mv6m) print $2, "Cores - Plan", $3;}'
+cat $bsphcoreconvlocvar | awk -v mv6m=$minvi6mo -F',' '{if ($1 == mv6m) print $5, "Cores - Plan", $6;}'
 printf "RECOMMENDED:\r\n"
 cat $bsphcoreconvlocvar | awk -v r6m=$rec6m -F',' '{if ($1 == r6m) print $2, "Cores - Plan", $3;}'
 printf "CONSERVATIVE 99pc VALUES:\r\n"
 cat $bsphcoreconvlocvar | awk -v acc99=$account99 -F',' '{if ($1 == acc99) print $2, "Cores - Plan", $3;}'
 printf "\r\n30-DAY WORKLOAD SCOPE\r\n==========\r\n"
 printf "MINIMALLY REQUIRED:\r\n"
-cat $bsphcoreconvlocvar | awk -v mv30d=$minvi30d -F',' '{if ($1 == mv30d) print $2, "Cores - Plan", $3;}'
+cat $bsphcoreconvlocvar | awk -v mv30d=$minvi30d -F',' '{if ($1 == mv30d) print $5, "Cores - Plan", $6;}'
 printf "RECOMMENDED:\r\n"
 cat $bsphcoreconvlocvar | awk -v acc9530=$account9530 -F',' '{if ($1 == acc9530) print $2, "Cores - Plan", $3;}'
 
