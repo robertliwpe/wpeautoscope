@@ -44,6 +44,9 @@ printf "\r\nInstalling Duti to allow .sh execution...\r\n"
 brew install duti
 duti -s com.googlecode.iterm2 .sh all
 
+printf "\r\nInstalling File Icon...\r\n"
+brew install fileicon
+
 dirvar=$(find ~ -type d -name "autoscope" -print -quit 2>/dev/null)
 filelocvar=$(find "$dirvar" -type f -name "autoscope.sh" -print -quit 2>/dev/null)
 
@@ -52,6 +55,9 @@ printf "Creating executable...\r\n\r\n"
 chmod +x "$filelocvar"
 
 printf "Creating shortcut...\r\n\r\n"
+
+ln -s "$filelocvar" /Applications/WP\ Engine\ Autoscope\ Tool.app
+fileicon set /Applications/WP\ Engine\ Autoscope\ Tool.app "$dirvar"/icon.png
 
 echo "# WPE Self Service Scoping Tool" >> ~/.bash_profile
 echo "alias selfscope='$filelocvar'" >> ~/.bash_profile
@@ -68,3 +74,5 @@ printf "\r\nNOTE CAREFULLY:\r\n"
 printf "Do NOT change the file structure, keep all files within the same folder.\r\n"
 printf "To use this tool you MUST HAVE OVERDRIVE ACCESS and can IMPERSONATE CUSTOMER ACCOUNTS.\r\n"
 printf "When uninstalling remember to delete or comment out the WPE Self Service Scoping Tool line in your ~/.bash_profile ~/.profile and ~/.bashrc by running \$vi ~/.bash_profile OR \$nano ~/.bash_profile (replacing the appropriate shell profile) and editing...\r\n\r\n"
+
+sleep 10
