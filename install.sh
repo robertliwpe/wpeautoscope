@@ -76,3 +76,5 @@ printf "To use this tool you MUST HAVE OVERDRIVE ACCESS and can IMPERSONATE CUST
 printf "When uninstalling remember to delete or comment out the WPE Self Service Scoping Tool line in your ~/.bash_profile ~/.profile and ~/.bashrc by running \$vi ~/.bash_profile OR \$nano ~/.bash_profile (replacing the appropriate shell profile) and editing...\r\n\r\n"
 
 sleep 10
+
+exit;
