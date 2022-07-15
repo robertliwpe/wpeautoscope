@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pathvar=$(readlink -f $(find . -type f -name "autoscope.sh" -print -quit 2>/dev/null | rev | cut -d'/' -f2- | rev))
+pathvar=$(readlink -f $(find ~ -type f -name "autoscope.sh" -print -quit 2>/dev/null | rev | cut -d'/' -f2- | rev))
 bsphcoreconvlocvar=$(readlink -f $(find $pathvar -type f -name "bsphcoreconversion.csv" 2>/dev/null))
 
 printf "\r\n\r\n=====================================================================================\r\n\r\n"
