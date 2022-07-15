@@ -33,12 +33,13 @@ then
     python3 --version
 else
     echo "Python found... Ensuring latest version installed."
-    brew upgrade python3
+    brew upgrade python
     python3 --version
 fi
 
 printf "\r\nInstalling iTerm2 terminal to execute...\r\n"
 brew install --cask iterm2
+brew link iterm2
 
 printf "\r\nInstalling Duti to allow .sh execution...\r\n"
 brew install duti
@@ -47,16 +48,21 @@ duti -s com.googlecode.iterm2 .sh all
 printf "\r\nInstalling File Icon...\r\n"
 brew install fileicon
 
-dirvar=$(find ~ -type d -name "autoscope" -print -quit 2>/dev/null)
+dirvar=$(find ~ -type d -name "*autoscope*" -print -quit 2>/dev/null)
 filelocvar=$(find "$dirvar" -type f -name "autoscope.sh" -print -quit 2>/dev/null)
 
-printf "Creating executable...\r\n\r\n"
+printf "Creating executable...\r\nDirectory Located: $dirvar\r\n\r\n"
 
 chmod +x "$filelocvar"
 
-printf "Creating shortcut...\r\n\r\n"
+printf "Creating symlink shortcut...\r\Origin Application Located: $filelocvar\r\n\r\n"
 
 ln -s "$filelocvar" /Applications/WP\ Engine\ Autoscope\ Tool.app
+
+wait 3
+
+printf "Creating shortcut in Applications Folder...\r\n\r\n"
+
 fileicon set /Applications/WP\ Engine\ Autoscope\ Tool.app "$dirvar"/icon.png
 
 echo "# WPE Self Service Scoping Tool" >> ~/.bash_profile
