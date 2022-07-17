@@ -1,7 +1,10 @@
 #!/bin/bash
 
-pathvar=$(readlink -f $(find ~ -type f -name "autoscope.sh" -print -quit 2>/dev/null | rev | cut -d'/' -f2- | rev))
-bsphcoreconvlocvar=$(readlink -f $(find $pathvar -type f -name "bsphcoreconversion.csv" 2>/dev/null))
+pathvar="/Users/$USER/.wp_engine_autoscope"
+bsphcoreconvlocvar="$pathvar/bsphcoreconversion.csv"
+
+# echo $pathvar
+# echo $bsphcoreconvlocvar
 
 printf "\r\n\r\n=====================================================================================\r\n\r\n"
 printf '\e[1;34m%-6s\e[m' "WP Engine Self Service Scoping Tool"
@@ -29,13 +32,13 @@ stty icanon
 
 #read inst
 
-installfilevar=$(find . -type f -name "autoscopeinstalls.sh" -print -quit 2>/dev/null)
+installfilevar=$(find "$pathvar" -type f -name "autoscopeinstalls.sh" -print -quit 2>/dev/null)
 
 source $installfilevar
 
-printf "\r\nPlease ensure you are in IMPERSONATION MODE by clicking through \"Navigation\" > \"User Portal\", and sign in if required. You have 10 seconds, otherwise press ENTER to SKIP...\r\n"
+printf "\r\nPlease ensure you are in IMPERSONATION MODE by clicking through \"Navigation\" > \"User Portal\", and sign in if required. You have 60 seconds.\r\n               ====================>>>>> If you have already done this then press ENTER to SKIP... <<<<<====================\r\n"
 
-read -t 10
+read -t 60
 
 tstamp=$(date +%Y%m%d)
 
@@ -89,24 +92,24 @@ printf "\r\nNOTE: Do NOT disclose Core Count information to customers.\r\n"
 
 printf "\r\n6 MONTH WORKLOAD SCOPE\r\n==========\r\n"
 printf "MINIMALLY REQUIRED:\r\n"
-cat $bsphcoreconvlocvar | awk -v mv6m=$minvi6mo -F',' '{if ($1 == mv6m) print $5, "Cores - Plan", $6;}'
+cat $bsphcoreconvlocvar | awk -v mv6m=$minvi6mo -F',' '{if ($1 == mv6m) print (substr(($5/64),0,6)*100)"%", "of Platform Capacity - Plan", $6;}'
 printf "RECOMMENDED:\r\n"
-cat $bsphcoreconvlocvar | awk -v r6m=$rec6m -F',' '{if ($1 == r6m) print $2, "Cores - Plan", $3;}'
+cat $bsphcoreconvlocvar | awk -v r6m=$rec6m -F',' '{if ($1 == r6m) print (substr(($2/64),0,6)*100)"%", "of Platform Capacity - Plan", $3;}'
 printf "CONSERVATIVE 99pc VALUES:\r\n"
-cat $bsphcoreconvlocvar | awk -v acc99=$account99 -F',' '{if ($1 == acc99) print $2, "Cores - Plan", $3;}'
+cat $bsphcoreconvlocvar | awk -v acc99=$account99 -F',' '{if ($1 == acc99) print (substr(($2/64),0,6)*100)"%", "of Platform Capacity - Plan", $3;}'
 printf "\r\n30-DAY WORKLOAD SCOPE\r\n==========\r\n"
 printf "MINIMALLY REQUIRED:\r\n"
-cat $bsphcoreconvlocvar | awk -v mv30d=$minvi30d -F',' '{if ($1 == mv30d) print $5, "Cores - Plan", $6;}'
+cat $bsphcoreconvlocvar | awk -v mv30d=$minvi30d -F',' '{if ($1 == mv30d) print (substr(($5/64),0,6)*100)"%", "of Platform Capacity - Plan", $6;}'
 printf "RECOMMENDED:\r\n"
-cat $bsphcoreconvlocvar | awk -v acc9530=$account9530 -F',' '{if ($1 == acc9530) print $2, "Cores - Plan", $3;}'
+cat $bsphcoreconvlocvar | awk -v acc9530=$account9530 -F',' '{if ($1 == acc9530) print (substr(($2/64),0,6)*100)"%", "of Platform Capacity - Plan", $3;}'
 
-printf "\r\nScope Complete...\r\nNOTE: This is based on HISTORICAL DATA and provides NO FORWARD GUIDANCE if conditions change. Please plan accordingly.\r\n\r\n"
+printf "\r\nScope Complete...\r\nNOTE: This is based on HISTORICAL DATA and provides NO FORWARD GUIDANCE if conditions change for example due to an upcoming event, sale or promotion. Please CONSULT YOUR LOCAL SE and plan accordingly.\r\n\r\n"
 
 while true; do
     read -p "Would you like to keep the working files? (Y/n) " yn
     case $yn in
         [Yy]* ) printf "Access the working files for the Scoping Tool at: /Users/$USER/desktop/Scoping Tool/$account-$tstamp\r\n\r\n"; sleep 3; exit;;
-        [Nn]* ) printf "Cleaning up after myself...\r\n\r\n"; echo "Deleting"; rm -rfv /Users/$USER/desktop/Scoping\ Tool/$account-$tstamp/; printf "\r\nDONE... Bye!\r\n\r\n"; sleep 3; exit;;
+        [Nn]* ) printf "Cleaning up after myself...\r\n\r\n"; echo "Deleting"; rm -rfv /Users/$USER/desktop/Scoping\ Tool/$account-$tstamp; printf "\r\nDONE... Bye!\r\n\r\n"; sleep 3; exit;;
         * ) echo "Input not recognized. Please answer y or n.";;
     esac
 done

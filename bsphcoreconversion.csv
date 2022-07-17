@@ -1,841 +1,841 @@
-0,1.5,P0,P0,1.05,P0,P0
-1,1.5,P0,P0,1.05,P0,P0
-2,1.5,P0,P0,1.05,P0,P0
-3,1.5,P0,P0,1.05,P0,P0
-4,1.5,P0,P0,1.05,P0,P0
-5,1.5,P0,P0,1.05,P0,P0
-6,1.6,P0,P0,1.12,P0,P0
-7,1.7,P0,P0,1.19,P0,P0
-8,1.8,P0,P0,1.26,P0,P0
-9,1.9,P0,P0,1.33,P0,P0
-10,2,P0,P0,1.4,P0,P0
-11,2.1,P0,P0,1.47,P0,P0
-12,2.2,P0,P0,1.54,P0,P0
-13,2.3,P0,P0,1.61,P0,P0
-14,2.4,P0,P0,1.68,P0,P0
-15,2.5,P0,P0,1.75,P0,P0
-16,2.6,P0,P0,1.82,P0,P0
-17,2.7,P0,P0,1.89,P0,P0
-18,2.8,P0,P0,1.96,P0,P0
-19,2.9,P0,P0,2.03,P0,P0
-20,3,P0,P0,2.1,P0,P0
-21,3.08,P0,P0,2.16,P0,P0
-22,3.17,P0,P0,2.22,P0,P0
-23,3.25,P0,P0,2.28,P0,P0
-24,3.33,P0,P0,2.33,P0,P0
-25,3.42,P0,P0,2.39,P0,P0
-26,3.5,P0,P0,2.45,P0,P0
-27,3.58,P1,P1,2.51,P0,P0
-28,3.67,P1,P1,2.57,P0,P0
-29,3.75,P1,P1,2.63,P0,P0
-30,3.83,P1,P1,2.68,P0,P0
-31,3.92,P1,P1,2.74,P0,P0
-32,4,P1,P1,2.8,P0,P0
-33,4.06,P1.5,P1.5,2.84,P0,P0
-34,4.13,P1.5,P1.5,2.89,P0,P0
-35,4.19,P1.5,P1.5,2.93,P0,P0
-36,4.25,P1.5,P1.5,2.98,P0,P0
-37,4.31,P1.5,P1.5,3.02,P0,P0
-38,4.38,P1.5,P1.5,3.06,P0,P0
-39,4.44,P1.5,P1.5,3.11,P0,P0
-40,4.5,P1.5,P1.5,3.15,P0,P0
-41,4.56,P1.5,P1.5,3.19,P0,P0
-42,4.63,P1.5,P1.5,3.24,P0,P0
-43,4.69,P1.5,P1.5,3.28,P0,P0
-44,4.75,P1.5,P1.5,3.33,P0,P0
-45,4.81,P1.5,P1.5,3.37,P0,P0
-46,4.88,P1.5,P1.5,3.41,P0,P0
-47,4.94,P1.5,P1.5,3.46,P0,P0
-48,5,P1.5,P1.5,3.5,P0,P0
-49,5.17,P2,P2,3.62,P1,P1
-50,5.33,P2,P2,3.73,P1,P1
-51,5.5,P2,P2,3.85,P1,P1
-52,5.67,P2,P2,3.97,P1,P1
-53,5.83,P2,P2,4.08,P1.5,P1.5
-54,6,P2,P2,4.2,P1.5,P1.5
-55,6.14,P3,P3,4.3,P1.5,P1.5
-56,6.29,P3,P3,4.4,P1.5,P1.5
-57,6.43,P3,P3,4.5,P1.5,P1.5
-58,6.57,P3,P3,4.6,P1.5,P1.5
-59,6.71,P3,P3,4.7,P1.5,P1.5
-60,6.86,P3,P3,4.8,P1.5,P1.5
-61,7,P3,P3,4.9,P1.5,P1.5
-62,7.14,P3,P3,5,P1.5,P1.5
-63,7.29,P3,P3,5.1,P2,P2
-64,7.43,P3,P3,5.2,P2,P2
-65,7.57,P3,P3,5.3,P2,P2
-66,7.71,P3,P3,5.4,P2,P2
-67,7.86,P3,P3,5.5,P2,P2
-68,8,P3,P3,5.6,P2,P2
-69,8.18,P4+ Requires an SE,P4,5.73,P2,P2
-70,8.36,P4+ Requires an SE,P4,5.85,P2,P2
-71,8.55,P4+ Requires an SE,P4,5.98,P2,P2
-72,8.73,P4+ Requires an SE,P4,6.11,P3,P3
-73,8.91,P4+ Requires an SE,P4,6.24,P3,P3
-74,9.09,P4+ Requires an SE,P4,6.36,P3,P3
-75,9.27,P4+ Requires an SE,P4,6.49,P3,P3
-76,9.45,P4+ Requires an SE,P4,6.62,P3,P3
-77,9.64,P4+ Requires an SE,P4,6.75,P3,P3
-78,9.82,P4+ Requires an SE,P4,6.87,P3,P3
-79,10,P4+ Requires an SE,P4,7,P3,P3
-80,10.18,P4+ Requires an SE,P4,7.13,P3,P3
-81,10.36,P4+ Requires an SE,P4,7.25,P3,P3
-82,10.55,P4+ Requires an SE,P4,7.38,P3,P3
-83,10.73,P4+ Requires an SE,P4,7.51,P3,P3
-84,10.91,P4+ Requires an SE,P4,7.64,P3,P3
-85,11.09,P4+ Requires an SE,P4,7.76,P3,P3
-86,11.27,P4+ Requires an SE,P4,7.89,P3,P3
-87,11.45,P4+ Requires an SE,P4,8.02,P4+ Requires an SE,P4
-88,11.64,P4+ Requires an SE,P4,8.15,P4+ Requires an SE,P4
-89,11.82,P4+ Requires an SE,P4,8.27,P4+ Requires an SE,P4
-90,12,P4+ Requires an SE,P4,8.4,P4+ Requires an SE,P4
-91,12.18,P4+ Requires an SE,P4,8.53,P4+ Requires an SE,P4
-92,12.36,P4+ Requires an SE,P4,8.65,P4+ Requires an SE,P4
-93,12.55,P4+ Requires an SE,P4,8.78,P4+ Requires an SE,P4
-94,12.73,P4+ Requires an SE,P4,8.91,P4+ Requires an SE,P4
-95,12.91,P4+ Requires an SE,P4,9.04,P4+ Requires an SE,P4
-96,13.09,P4+ Requires an SE,P4,9.16,P4+ Requires an SE,P4
-97,13.27,P4+ Requires an SE,P4,9.29,P4+ Requires an SE,P4
-98,13.45,P4+ Requires an SE,P4,9.42,P4+ Requires an SE,P4
-99,13.64,P4+ Requires an SE,P4,9.55,P4+ Requires an SE,P4
-100,13.82,P4+ Requires an SE,P4,9.67,P4+ Requires an SE,P4
-101,14,P4+ Requires an SE,P4,9.8,P4+ Requires an SE,P4
-102,14.18,P4+ Requires an SE,P4,9.93,P4+ Requires an SE,P4
-103,14.36,P4+ Requires an SE,P4,10.05,P4+ Requires an SE,P4
-104,14.55,P4+ Requires an SE,P4,10.18,P4+ Requires an SE,P4
-105,14.73,P4+ Requires an SE,P4,10.31,P4+ Requires an SE,P4
-106,14.91,P4+ Requires an SE,P4,10.44,P4+ Requires an SE,P4
-107,15.09,P4+ Requires an SE,P4,10.56,P4+ Requires an SE,P4
-108,15.27,P4+ Requires an SE,P4,10.69,P4+ Requires an SE,P4
-109,15.45,P4+ Requires an SE,P4,10.82,P4+ Requires an SE,P4
-110,15.64,P4+ Requires an SE,P4,10.95,P4+ Requires an SE,P4
-111,15.82,P4+ Requires an SE,P4,11.07,P4+ Requires an SE,P4
-112,16,P4+ Requires an SE,P4,11.2,P4+ Requires an SE,P4
-113,16.29,P4+ Requires an SE,P5,11.4,P4+ Requires an SE,P4
-114,16.57,P4+ Requires an SE,P5,11.6,P4+ Requires an SE,P4
-115,16.86,P4+ Requires an SE,P5,11.8,P4+ Requires an SE,P4
-116,17.14,P4+ Requires an SE,P5,12,P4+ Requires an SE,P4
-117,17.43,P4+ Requires an SE,P5,12.2,P4+ Requires an SE,P4
-118,17.71,P4+ Requires an SE,P5,12.4,P4+ Requires an SE,P4
-119,18,P4+ Requires an SE,P5,12.6,P4+ Requires an SE,P4
-120,18.29,P4+ Requires an SE,P5,12.8,P4+ Requires an SE,P4
-121,18.57,P4+ Requires an SE,P5,13,P4+ Requires an SE,P4
-122,18.86,P4+ Requires an SE,P5,13.2,P4+ Requires an SE,P4
-123,19.14,P4+ Requires an SE,P5,13.4,P4+ Requires an SE,P4
-124,19.43,P4+ Requires an SE,P5,13.6,P4+ Requires an SE,P4
-125,19.71,P4+ Requires an SE,P5,13.8,P4+ Requires an SE,P4
-126,20,P4+ Requires an SE,P5,14,P4+ Requires an SE,P4
-127,20.29,P4+ Requires an SE,P5,14.2,P4+ Requires an SE,P4
-128,20.57,P4+ Requires an SE,P5,14.4,P4+ Requires an SE,P4
-129,20.86,P4+ Requires an SE,P5,14.6,P4+ Requires an SE,P4
-130,21.14,P4+ Requires an SE,P5,14.8,P4+ Requires an SE,P4
-131,21.43,P4+ Requires an SE,P5,15,P4+ Requires an SE,P4
-132,21.71,P4+ Requires an SE,P5,15.2,P4+ Requires an SE,P4
-133,22,P4+ Requires an SE,P5,15.4,P4+ Requires an SE,P4
-134,22.29,P4+ Requires an SE,P5,15.6,P4+ Requires an SE,P4
-135,22.57,P4+ Requires an SE,P5,15.8,P4+ Requires an SE,P4
-136,22.86,P4+ Requires an SE,P5,16,P4+ Requires an SE,P4
-137,23.14,P4+ Requires an SE,P5,16.2,P4+ Requires an SE,P5
-138,23.43,P4+ Requires an SE,P5,16.4,P4+ Requires an SE,P5
-139,23.71,P4+ Requires an SE,P5,16.6,P4+ Requires an SE,P5
-140,24,P4+ Requires an SE,P5,16.8,P4+ Requires an SE,P5
-141,24.29,P4+ Requires an SE,P6,17,P4+ Requires an SE,P5
-142,24.57,P4+ Requires an SE,P6,17.2,P4+ Requires an SE,P5
-143,24.86,P4+ Requires an SE,P6,17.4,P4+ Requires an SE,P5
-144,25.14,P4+ Requires an SE,P6,17.6,P4+ Requires an SE,P5
-145,25.43,P4+ Requires an SE,P6,17.8,P4+ Requires an SE,P5
-146,25.71,P4+ Requires an SE,P6,18,P4+ Requires an SE,P5
-147,26,P4+ Requires an SE,P6,18.2,P4+ Requires an SE,P5
-148,26.29,P4+ Requires an SE,P6,18.4,P4+ Requires an SE,P5
-149,26.57,P4+ Requires an SE,P6,18.6,P4+ Requires an SE,P5
-150,26.86,P4+ Requires an SE,P6,18.8,P4+ Requires an SE,P5
-151,27.14,P4+ Requires an SE,P6,19,P4+ Requires an SE,P5
-152,27.43,P4+ Requires an SE,P6,19.2,P4+ Requires an SE,P5
-153,27.71,P4+ Requires an SE,P6,19.4,P4+ Requires an SE,P5
-154,28,P4+ Requires an SE,P6,19.6,P4+ Requires an SE,P5
-155,28.29,P4+ Requires an SE,P6,19.8,P4+ Requires an SE,P5
-156,28.57,P4+ Requires an SE,P6,20,P4+ Requires an SE,P5
-157,28.86,P4+ Requires an SE,P6,20.2,P4+ Requires an SE,P5
-158,29.14,P4+ Requires an SE,P6,20.4,P4+ Requires an SE,P5
-159,29.43,P4+ Requires an SE,P6,20.6,P4+ Requires an SE,P5
-160,29.71,P4+ Requires an SE,P6,20.8,P4+ Requires an SE,P5
-161,30,P4+ Requires an SE,P6,21,P4+ Requires an SE,P5
-162,30.29,P4+ Requires an SE,P6,21.2,P4+ Requires an SE,P5
-163,30.57,P4+ Requires an SE,P6,21.4,P4+ Requires an SE,P5
-164,30.86,P4+ Requires an SE,P6,21.6,P4+ Requires an SE,P5
-165,31.14,P4+ Requires an SE,P6,21.8,P4+ Requires an SE,P5
-166,31.43,P4+ Requires an SE,P6,22,P4+ Requires an SE,P5
-167,31.71,P4+ Requires an SE,P6,22.2,P4+ Requires an SE,P5
-168,32,P4+ Requires an SE,P6,22.4,P4+ Requires an SE,P5
-169,32.29,P4+ Requires an SE,P7,22.6,P4+ Requires an SE,P5
-170,32.57,P4+ Requires an SE,P7,22.8,P4+ Requires an SE,P5
-171,32.86,P4+ Requires an SE,P7,23,P4+ Requires an SE,P5
-172,33.14,P4+ Requires an SE,P7,23.2,P4+ Requires an SE,P5
-173,33.43,P4+ Requires an SE,P7,23.4,P4+ Requires an SE,P5
-174,33.71,P4+ Requires an SE,P7,23.6,P4+ Requires an SE,P5
-175,34,P4+ Requires an SE,P7,23.8,P4+ Requires an SE,P5
-176,34.29,P4+ Requires an SE,P7,24,P4+ Requires an SE,P5
-177,34.57,P4+ Requires an SE,P7,24.2,P4+ Requires an SE,P6
-178,34.86,P4+ Requires an SE,P7,24.4,P4+ Requires an SE,P6
-179,35.14,P4+ Requires an SE,P7,24.6,P4+ Requires an SE,P6
-180,35.43,P4+ Requires an SE,P7,24.8,P4+ Requires an SE,P6
-181,35.71,P4+ Requires an SE,P7,25,P4+ Requires an SE,P6
-182,36,P4+ Requires an SE,P7,25.2,P4+ Requires an SE,P6
-183,36.29,P4+ Requires an SE,P7,25.4,P4+ Requires an SE,P6
-184,36.57,P4+ Requires an SE,P7,25.6,P4+ Requires an SE,P6
-185,36.86,P4+ Requires an SE,P7,25.8,P4+ Requires an SE,P6
-186,37.14,P4+ Requires an SE,P7,26,P4+ Requires an SE,P6
-187,37.43,P4+ Requires an SE,P7,26.2,P4+ Requires an SE,P6
-188,37.71,P4+ Requires an SE,P7,26.4,P4+ Requires an SE,P6
-189,38,P4+ Requires an SE,P7,26.6,P4+ Requires an SE,P6
-190,38.29,P4+ Requires an SE,P7,26.8,P4+ Requires an SE,P6
-191,38.57,P4+ Requires an SE,P7,27,P4+ Requires an SE,P6
-192,38.86,P4+ Requires an SE,P7,27.2,P4+ Requires an SE,P6
-193,39.14,P4+ Requires an SE,P7,27.4,P4+ Requires an SE,P6
-194,39.43,P4+ Requires an SE,P7,27.6,P4+ Requires an SE,P6
-195,39.71,P4+ Requires an SE,P7,27.8,P4+ Requires an SE,P6
-196,40,P4+ Requires an SE,P7,28,P4+ Requires an SE,P6
-197,40.29,P4+ Requires an SE,P8,28.2,P4+ Requires an SE,P6
-198,40.57,P4+ Requires an SE,P8,28.4,P4+ Requires an SE,P6
-199,40.86,P4+ Requires an SE,P8,28.6,P4+ Requires an SE,P6
-200,41.14,P4+ Requires an SE,P8,28.8,P4+ Requires an SE,P6
-201,41.43,P4+ Requires an SE,P8,29,P4+ Requires an SE,P6
-202,41.71,P4+ Requires an SE,P8,29.2,P4+ Requires an SE,P6
-203,42,P4+ Requires an SE,P8,29.4,P4+ Requires an SE,P6
-204,42.29,P4+ Requires an SE,P8,29.6,P4+ Requires an SE,P6
-205,42.57,P4+ Requires an SE,P8,29.8,P4+ Requires an SE,P6
-206,42.86,P4+ Requires an SE,P8,30,P4+ Requires an SE,P6
-207,43.14,P4+ Requires an SE,P8,30.2,P4+ Requires an SE,P6
-208,43.43,P4+ Requires an SE,P8,30.4,P4+ Requires an SE,P6
-209,43.71,P4+ Requires an SE,P8,30.6,P4+ Requires an SE,P6
-210,44,P4+ Requires an SE,P8,30.8,P4+ Requires an SE,P6
-211,44.29,P4+ Requires an SE,P8,31,P4+ Requires an SE,P6
-212,44.57,P4+ Requires an SE,P8,31.2,P4+ Requires an SE,P6
-213,44.86,P4+ Requires an SE,P8,31.4,P4+ Requires an SE,P6
-214,45.14,P4+ Requires an SE,P8,31.6,P4+ Requires an SE,P6
-215,45.43,P4+ Requires an SE,P8,31.8,P4+ Requires an SE,P6
-216,45.71,P4+ Requires an SE,P8,32,P4+ Requires an SE,P6
-217,46,P4+ Requires an SE,P8,32.2,P4+ Requires an SE,P7
-218,46.29,P4+ Requires an SE,P8,32.4,P4+ Requires an SE,P7
-219,46.57,P4+ Requires an SE,P8,32.6,P4+ Requires an SE,P7
-220,46.86,P4+ Requires an SE,P8,32.8,P4+ Requires an SE,P7
-221,47.14,P4+ Requires an SE,P8,33,P4+ Requires an SE,P7
-222,47.43,P4+ Requires an SE,P8,33.2,P4+ Requires an SE,P7
-223,47.71,P4+ Requires an SE,P8,33.4,P4+ Requires an SE,P7
-224,48,P4+ Requires an SE,P8,33.6,P4+ Requires an SE,P7
-225,48.29,P4+ Requires an SE,P9,33.8,P4+ Requires an SE,P7
-226,48.57,P4+ Requires an SE,P9,34,P4+ Requires an SE,P7
-227,48.86,P4+ Requires an SE,P9,34.2,P4+ Requires an SE,P7
-228,49.14,P4+ Requires an SE,P9,34.4,P4+ Requires an SE,P7
-229,49.43,P4+ Requires an SE,P9,34.6,P4+ Requires an SE,P7
-230,49.71,P4+ Requires an SE,P9,34.8,P4+ Requires an SE,P7
-231,50,P4+ Requires an SE,P9,35,P4+ Requires an SE,P7
-232,50.29,P4+ Requires an SE,P9,35.2,P4+ Requires an SE,P7
-233,50.57,P4+ Requires an SE,P9,35.4,P4+ Requires an SE,P7
-234,50.86,P4+ Requires an SE,P9,35.6,P4+ Requires an SE,P7
-235,51.14,P4+ Requires an SE,P9,35.8,P4+ Requires an SE,P7
-236,51.43,P4+ Requires an SE,P9,36,P4+ Requires an SE,P7
-237,51.71,P4+ Requires an SE,P9,36.2,P4+ Requires an SE,P7
-238,52,P4+ Requires an SE,P9,36.4,P4+ Requires an SE,P7
-239,52.29,P4+ Requires an SE,P9,36.6,P4+ Requires an SE,P7
-240,52.57,P4+ Requires an SE,P9,36.8,P4+ Requires an SE,P7
-241,52.86,P4+ Requires an SE,P9,37,P4+ Requires an SE,P7
-242,53.14,P4+ Requires an SE,P9,37.2,P4+ Requires an SE,P7
-243,53.43,P4+ Requires an SE,P9,37.4,P4+ Requires an SE,P7
-244,53.71,P4+ Requires an SE,P9,37.6,P4+ Requires an SE,P7
-245,54,P4+ Requires an SE,P9,37.8,P4+ Requires an SE,P7
-246,54.29,P4+ Requires an SE,P9,38,P4+ Requires an SE,P7
-247,54.57,P4+ Requires an SE,P9,38.2,P4+ Requires an SE,P7
-248,54.86,P4+ Requires an SE,P9,38.4,P4+ Requires an SE,P7
-249,55.14,P4+ Requires an SE,P9,38.6,P4+ Requires an SE,P7
-250,55.43,P4+ Requires an SE,P9,38.8,P4+ Requires an SE,P7
-251,55.71,P4+ Requires an SE,P9,39,P4+ Requires an SE,P7
-252,56,P4+ Requires an SE,P9,39.2,P4+ Requires an SE,P7
-253,56.29,P4+ Requires an SE,P10,39.4,P4+ Requires an SE,P7
-254,56.57,P4+ Requires an SE,P10,39.6,P4+ Requires an SE,P7
-255,56.86,P4+ Requires an SE,P10,39.8,P4+ Requires an SE,P7
-256,57.14,P4+ Requires an SE,P10,40,P4+ Requires an SE,P7
-257,57.43,P4+ Requires an SE,P10,40.2,P4+ Requires an SE,P8
-258,57.71,P4+ Requires an SE,P10,40.4,P4+ Requires an SE,P8
-259,58,P4+ Requires an SE,P10,40.6,P4+ Requires an SE,P8
-260,58.29,P4+ Requires an SE,P10,40.8,P4+ Requires an SE,P8
-261,58.57,P4+ Requires an SE,P10,41,P4+ Requires an SE,P8
-262,58.86,P4+ Requires an SE,P10,41.2,P4+ Requires an SE,P8
-263,59.14,P4+ Requires an SE,P10,41.4,P4+ Requires an SE,P8
-264,59.43,P4+ Requires an SE,P10,41.6,P4+ Requires an SE,P8
-265,59.71,P4+ Requires an SE,P10,41.8,P4+ Requires an SE,P8
-266,60,P4+ Requires an SE,P10,42,P4+ Requires an SE,P8
-267,60.29,P4+ Requires an SE,P10,42.2,P4+ Requires an SE,P8
-268,60.57,P4+ Requires an SE,P10,42.4,P4+ Requires an SE,P8
-269,60.86,P4+ Requires an SE,P10,42.6,P4+ Requires an SE,P8
-270,61.14,P4+ Requires an SE,P10,42.8,P4+ Requires an SE,P8
-271,61.43,P4+ Requires an SE,P10,43,P4+ Requires an SE,P8
-272,61.71,P4+ Requires an SE,P10,43.2,P4+ Requires an SE,P8
-273,62,P4+ Requires an SE,P10,43.4,P4+ Requires an SE,P8
-274,62.29,P4+ Requires an SE,P10,43.6,P4+ Requires an SE,P8
-275,62.57,P4+ Requires an SE,P10,43.8,P4+ Requires an SE,P8
-276,62.86,P4+ Requires an SE,P10,44,P4+ Requires an SE,P8
-277,63.14,P4+ Requires an SE,P10,44.2,P4+ Requires an SE,P8
-278,63.43,P4+ Requires an SE,P10,44.4,P4+ Requires an SE,P8
-279,63.71,P4+ Requires an SE,P10,44.6,P4+ Requires an SE,P8
-280,64,P4+ Requires an SE,P10,44.8,P4+ Requires an SE,P8
-281,64.29,P4+ Requires an SE,P11+,45,P4+ Requires an SE,P8
-282,64.57,P4+ Requires an SE,P11+,45.2,P4+ Requires an SE,P8
-283,64.86,P4+ Requires an SE,P11+,45.4,P4+ Requires an SE,P8
-284,65.14,P4+ Requires an SE,P11+,45.6,P4+ Requires an SE,P8
-285,65.43,P4+ Requires an SE,P11+,45.8,P4+ Requires an SE,P8
-286,65.71,P4+ Requires an SE,P11+,46,P4+ Requires an SE,P8
-287,66,P4+ Requires an SE,P11+,46.2,P4+ Requires an SE,P8
-288,66.29,P4+ Requires an SE,P11+,46.4,P4+ Requires an SE,P8
-289,66.57,P4+ Requires an SE,P11+,46.6,P4+ Requires an SE,P8
-290,66.86,P4+ Requires an SE,P11+,46.8,P4+ Requires an SE,P8
-291,67.14,P4+ Requires an SE,P11+,47,P4+ Requires an SE,P8
-292,67.43,P4+ Requires an SE,P11+,47.2,P4+ Requires an SE,P8
-293,67.71,P4+ Requires an SE,P11+,47.4,P4+ Requires an SE,P8
-294,68,P4+ Requires an SE,P11+,47.6,P4+ Requires an SE,P8
-295,68.29,P4+ Requires an SE,P11+,47.8,P4+ Requires an SE,P8
-296,68.57,P4+ Requires an SE,P11+,48,P4+ Requires an SE,P8
-297,68.86,P4+ Requires an SE,P11+,48.2,P4+ Requires an SE,P9
-298,69.14,P4+ Requires an SE,P11+,48.4,P4+ Requires an SE,P9
-299,69.43,P4+ Requires an SE,P11+,48.6,P4+ Requires an SE,P9
-300,69.71,P4+ Requires an SE,P11+,48.8,P4+ Requires an SE,P9
-301,70,P4+ Requires an SE,P11+,49,P4+ Requires an SE,P9
-302,70.29,P4+ Requires an SE,P11+,49.2,P4+ Requires an SE,P9
-303,70.57,P4+ Requires an SE,P11+,49.4,P4+ Requires an SE,P9
-304,70.86,P4+ Requires an SE,P11+,49.6,P4+ Requires an SE,P9
-305,71.14,P4+ Requires an SE,P11+,49.8,P4+ Requires an SE,P9
-306,71.43,P4+ Requires an SE,P11+,50,P4+ Requires an SE,P9
-307,71.71,P4+ Requires an SE,P11+,50.2,P4+ Requires an SE,P9
-308,72,P4+ Requires an SE,P11+,50.4,P4+ Requires an SE,P9
-309,72.29,P4+ Requires an SE,P11+,50.6,P4+ Requires an SE,P9
-310,72.57,P4+ Requires an SE,P11+,50.8,P4+ Requires an SE,P9
-311,72.86,P4+ Requires an SE,P11+,51,P4+ Requires an SE,P9
-312,73.14,P4+ Requires an SE,P11+,51.2,P4+ Requires an SE,P9
-313,73.43,P4+ Requires an SE,P11+,51.4,P4+ Requires an SE,P9
-314,73.71,P4+ Requires an SE,P11+,51.6,P4+ Requires an SE,P9
-315,74,P4+ Requires an SE,P11+,51.8,P4+ Requires an SE,P9
-316,74.29,P4+ Requires an SE,P11+,52,P4+ Requires an SE,P9
-317,74.57,P4+ Requires an SE,P11+,52.2,P4+ Requires an SE,P9
-318,74.86,P4+ Requires an SE,P11+,52.4,P4+ Requires an SE,P9
-319,75.14,P4+ Requires an SE,P11+,52.6,P4+ Requires an SE,P9
-320,75.43,P4+ Requires an SE,P11+,52.8,P4+ Requires an SE,P9
-321,75.71,P4+ Requires an SE,P11+,53,P4+ Requires an SE,P9
-322,76,P4+ Requires an SE,P11+,53.2,P4+ Requires an SE,P9
-323,76.29,P4+ Requires an SE,P11+,53.4,P4+ Requires an SE,P9
-324,76.57,P4+ Requires an SE,P11+,53.6,P4+ Requires an SE,P9
-325,76.86,P4+ Requires an SE,P11+,53.8,P4+ Requires an SE,P9
-326,77.14,P4+ Requires an SE,P11+,54,P4+ Requires an SE,P9
-327,77.43,P4+ Requires an SE,P11+,54.2,P4+ Requires an SE,P9
-328,77.71,P4+ Requires an SE,P11+,54.4,P4+ Requires an SE,P9
-329,78,P4+ Requires an SE,P11+,54.6,P4+ Requires an SE,P9
-330,78.29,P4+ Requires an SE,P11+,54.8,P4+ Requires an SE,P9
-331,78.57,P4+ Requires an SE,P11+,55,P4+ Requires an SE,P9
-332,78.86,P4+ Requires an SE,P11+,55.2,P4+ Requires an SE,P9
-333,79.14,P4+ Requires an SE,P11+,55.4,P4+ Requires an SE,P9
-334,79.43,P4+ Requires an SE,P11+,55.6,P4+ Requires an SE,P9
-335,79.71,P4+ Requires an SE,P11+,55.8,P4+ Requires an SE,P9
-336,80,P4+ Requires an SE,P11+,56,P4+ Requires an SE,P9
-337,80.29,P4+ Requires an SE,P11+,56.2,P4+ Requires an SE,P10
-338,80.57,P4+ Requires an SE,P11+,56.4,P4+ Requires an SE,P10
-339,80.86,P4+ Requires an SE,P11+,56.6,P4+ Requires an SE,P10
-340,81.14,P4+ Requires an SE,P11+,56.8,P4+ Requires an SE,P10
-341,81.43,P4+ Requires an SE,P11+,57,P4+ Requires an SE,P10
-342,81.71,P4+ Requires an SE,P11+,57.2,P4+ Requires an SE,P10
-343,82,P4+ Requires an SE,P11+,57.4,P4+ Requires an SE,P10
-344,82.29,P4+ Requires an SE,P11+,57.6,P4+ Requires an SE,P10
-345,82.57,P4+ Requires an SE,P11+,57.8,P4+ Requires an SE,P10
-346,82.86,P4+ Requires an SE,P11+,58,P4+ Requires an SE,P10
-347,83.14,P4+ Requires an SE,P11+,58.2,P4+ Requires an SE,P10
-348,83.43,P4+ Requires an SE,P11+,58.4,P4+ Requires an SE,P10
-349,83.71,P4+ Requires an SE,P11+,58.6,P4+ Requires an SE,P10
-350,84,P4+ Requires an SE,P11+,58.8,P4+ Requires an SE,P10
-351,84.29,P4+ Requires an SE,P11+,59,P4+ Requires an SE,P10
-352,84.57,P4+ Requires an SE,P11+,59.2,P4+ Requires an SE,P10
-353,84.86,P4+ Requires an SE,P11+,59.4,P4+ Requires an SE,P10
-354,85.14,P4+ Requires an SE,P11+,59.6,P4+ Requires an SE,P10
-355,85.43,P4+ Requires an SE,P11+,59.8,P4+ Requires an SE,P10
-356,85.71,P4+ Requires an SE,P11+,60,P4+ Requires an SE,P10
-357,86,P4+ Requires an SE,P11+,60.2,P4+ Requires an SE,P10
-358,86.29,P4+ Requires an SE,P11+,60.4,P4+ Requires an SE,P10
-359,86.57,P4+ Requires an SE,P11+,60.6,P4+ Requires an SE,P10
-360,86.86,P4+ Requires an SE,P11+,60.8,P4+ Requires an SE,P10
-361,87.14,P4+ Requires an SE,P11+,61,P4+ Requires an SE,P10
-362,87.43,P4+ Requires an SE,P11+,61.2,P4+ Requires an SE,P10
-363,87.71,P4+ Requires an SE,P11+,61.4,P4+ Requires an SE,P10
-364,88,P4+ Requires an SE,P11+,61.6,P4+ Requires an SE,P10
-365,88.29,P4+ Requires an SE,P11+,61.8,P4+ Requires an SE,P10
-366,88.57,P4+ Requires an SE,P11+,62,P4+ Requires an SE,P10
-367,88.86,P4+ Requires an SE,P11+,62.2,P4+ Requires an SE,P10
-368,89.14,P4+ Requires an SE,P11+,62.4,P4+ Requires an SE,P10
-369,89.43,P4+ Requires an SE,P11+,62.6,P4+ Requires an SE,P10
-370,89.71,P4+ Requires an SE,P11+,62.8,P4+ Requires an SE,P10
-371,90,P4+ Requires an SE,P11+,63,P4+ Requires an SE,P10
-372,90.29,P4+ Requires an SE,P11+,63.2,P4+ Requires an SE,P10
-373,90.57,P4+ Requires an SE,P11+,63.4,P4+ Requires an SE,P10
-374,90.86,P4+ Requires an SE,P11+,63.6,P4+ Requires an SE,P10
-375,91.14,P4+ Requires an SE,P11+,63.8,P4+ Requires an SE,P10
-376,91.43,P4+ Requires an SE,P11+,64,P4+ Requires an SE,P10
-377,91.71,P4+ Requires an SE,P11+,64.2,P4+ Requires an SE,P11+
-378,92,P4+ Requires an SE,P11+,64.4,P4+ Requires an SE,P11+
-379,92.29,P4+ Requires an SE,P11+,64.6,P4+ Requires an SE,P11+
-380,92.57,P4+ Requires an SE,P11+,64.8,P4+ Requires an SE,P11+
-381,92.86,P4+ Requires an SE,P11+,65,P4+ Requires an SE,P11+
-382,93.14,P4+ Requires an SE,P11+,65.2,P4+ Requires an SE,P11+
-383,93.43,P4+ Requires an SE,P11+,65.4,P4+ Requires an SE,P11+
-384,93.71,P4+ Requires an SE,P11+,65.6,P4+ Requires an SE,P11+
-385,94,P4+ Requires an SE,P11+,65.8,P4+ Requires an SE,P11+
-386,94.29,P4+ Requires an SE,P11+,66,P4+ Requires an SE,P11+
-387,94.57,P4+ Requires an SE,P11+,66.2,P4+ Requires an SE,P11+
-388,94.86,P4+ Requires an SE,P11+,66.4,P4+ Requires an SE,P11+
-389,95.14,P4+ Requires an SE,P11+,66.6,P4+ Requires an SE,P11+
-390,95.43,P4+ Requires an SE,P11+,66.8,P4+ Requires an SE,P11+
-391,95.71,P4+ Requires an SE,P11+,67,P4+ Requires an SE,P11+
-392,96,P4+ Requires an SE,P11+,67.2,P4+ Requires an SE,P11+
-393,96.29,P4+ Requires an SE,P11+,67.4,P4+ Requires an SE,P11+
-394,96.57,P4+ Requires an SE,P11+,67.6,P4+ Requires an SE,P11+
-395,96.86,P4+ Requires an SE,P11+,67.8,P4+ Requires an SE,P11+
-396,97.14,P4+ Requires an SE,P11+,68,P4+ Requires an SE,P11+
-397,97.43,P4+ Requires an SE,P11+,68.2,P4+ Requires an SE,P11+
-398,97.71,P4+ Requires an SE,P11+,68.4,P4+ Requires an SE,P11+
-399,98,P4+ Requires an SE,P11+,68.6,P4+ Requires an SE,P11+
-400,98.29,P4+ Requires an SE,P11+,68.8,P4+ Requires an SE,P11+
-401,98.57,P4+ Requires an SE,P11+,69,P4+ Requires an SE,P11+
-402,98.86,P4+ Requires an SE,P11+,69.2,P4+ Requires an SE,P11+
-403,99.14,P4+ Requires an SE,P11+,69.4,P4+ Requires an SE,P11+
-404,99.43,P4+ Requires an SE,P11+,69.6,P4+ Requires an SE,P11+
-405,99.71,P4+ Requires an SE,P11+,69.8,P4+ Requires an SE,P11+
-406,100,P4+ Requires an SE,P11+,70,P4+ Requires an SE,P11+
-407,100.29,P4+ Requires an SE,P11+,70.2,P4+ Requires an SE,P11+
-408,100.57,P4+ Requires an SE,P11+,70.4,P4+ Requires an SE,P11+
-409,100.86,P4+ Requires an SE,P11+,70.6,P4+ Requires an SE,P11+
-410,101.14,P4+ Requires an SE,P11+,70.8,P4+ Requires an SE,P11+
-411,101.43,P4+ Requires an SE,P11+,71,P4+ Requires an SE,P11+
-412,101.71,P4+ Requires an SE,P11+,71.2,P4+ Requires an SE,P11+
-413,102,P4+ Requires an SE,P11+,71.4,P4+ Requires an SE,P11+
-414,102.29,P4+ Requires an SE,P11+,71.6,P4+ Requires an SE,P11+
-415,102.57,P4+ Requires an SE,P11+,71.8,P4+ Requires an SE,P11+
-416,102.86,P4+ Requires an SE,P11+,72,P4+ Requires an SE,P11+
-417,103.14,P4+ Requires an SE,P11+,72.2,P4+ Requires an SE,P11+
-418,103.43,P4+ Requires an SE,P11+,72.4,P4+ Requires an SE,P11+
-419,103.71,P4+ Requires an SE,P11+,72.6,P4+ Requires an SE,P11+
-420,104,P4+ Requires an SE,P11+,72.8,P4+ Requires an SE,P11+
-421,104.29,P4+ Requires an SE,P11+,73,P4+ Requires an SE,P11+
-422,104.57,P4+ Requires an SE,P11+,73.2,P4+ Requires an SE,P11+
-423,104.86,P4+ Requires an SE,P11+,73.4,P4+ Requires an SE,P11+
-424,105.14,P4+ Requires an SE,P11+,73.6,P4+ Requires an SE,P11+
-425,105.43,P4+ Requires an SE,P11+,73.8,P4+ Requires an SE,P11+
-426,105.71,P4+ Requires an SE,P11+,74,P4+ Requires an SE,P11+
-427,106,P4+ Requires an SE,P11+,74.2,P4+ Requires an SE,P11+
-428,106.29,P4+ Requires an SE,P11+,74.4,P4+ Requires an SE,P11+
-429,106.57,P4+ Requires an SE,P11+,74.6,P4+ Requires an SE,P11+
-430,106.86,P4+ Requires an SE,P11+,74.8,P4+ Requires an SE,P11+
-431,107.14,P4+ Requires an SE,P11+,75,P4+ Requires an SE,P11+
-432,107.43,P4+ Requires an SE,P11+,75.2,P4+ Requires an SE,P11+
-433,107.71,P4+ Requires an SE,P11+,75.4,P4+ Requires an SE,P11+
-434,108,P4+ Requires an SE,P11+,75.6,P4+ Requires an SE,P11+
-435,108.29,P4+ Requires an SE,P11+,75.8,P4+ Requires an SE,P11+
-436,108.57,P4+ Requires an SE,P11+,76,P4+ Requires an SE,P11+
-437,108.86,P4+ Requires an SE,P11+,76.2,P4+ Requires an SE,P11+
-438,109.14,P4+ Requires an SE,P11+,76.4,P4+ Requires an SE,P11+
-439,109.43,P4+ Requires an SE,P11+,76.6,P4+ Requires an SE,P11+
-440,109.71,P4+ Requires an SE,P11+,76.8,P4+ Requires an SE,P11+
-441,110,P4+ Requires an SE,P11+,77,P4+ Requires an SE,P11+
-442,110.29,P4+ Requires an SE,P11+,77.2,P4+ Requires an SE,P11+
-443,110.57,P4+ Requires an SE,P11+,77.4,P4+ Requires an SE,P11+
-444,110.86,P4+ Requires an SE,P11+,77.6,P4+ Requires an SE,P11+
-445,111.14,P4+ Requires an SE,P11+,77.8,P4+ Requires an SE,P11+
-446,111.43,P4+ Requires an SE,P11+,78,P4+ Requires an SE,P11+
-447,111.71,P4+ Requires an SE,P11+,78.2,P4+ Requires an SE,P11+
-448,112,P4+ Requires an SE,P11+,78.4,P4+ Requires an SE,P11+
-449,112.29,P4+ Requires an SE,P11+,78.6,P4+ Requires an SE,P11+
-450,112.57,P4+ Requires an SE,P11+,78.8,P4+ Requires an SE,P11+
-451,112.86,P4+ Requires an SE,P11+,79,P4+ Requires an SE,P11+
-452,113.14,P4+ Requires an SE,P11+,79.2,P4+ Requires an SE,P11+
-453,113.43,P4+ Requires an SE,P11+,79.4,P4+ Requires an SE,P11+
-454,113.71,P4+ Requires an SE,P11+,79.6,P4+ Requires an SE,P11+
-455,114,P4+ Requires an SE,P11+,79.8,P4+ Requires an SE,P11+
-456,114.29,P4+ Requires an SE,P11+,80,P4+ Requires an SE,P11+
-457,114.57,P4+ Requires an SE,P11+,80.2,P4+ Requires an SE,P11+
-458,114.86,P4+ Requires an SE,P11+,80.4,P4+ Requires an SE,P11+
-459,115.14,P4+ Requires an SE,P11+,80.6,P4+ Requires an SE,P11+
-460,115.43,P4+ Requires an SE,P11+,80.8,P4+ Requires an SE,P11+
-461,115.71,P4+ Requires an SE,P11+,81,P4+ Requires an SE,P11+
-462,116,P4+ Requires an SE,P11+,81.2,P4+ Requires an SE,P11+
-463,116.29,P4+ Requires an SE,P11+,81.4,P4+ Requires an SE,P11+
-464,116.57,P4+ Requires an SE,P11+,81.6,P4+ Requires an SE,P11+
-465,116.86,P4+ Requires an SE,P11+,81.8,P4+ Requires an SE,P11+
-466,117.14,P4+ Requires an SE,P11+,82,P4+ Requires an SE,P11+
-467,117.43,P4+ Requires an SE,P11+,82.2,P4+ Requires an SE,P11+
-468,117.71,P4+ Requires an SE,P11+,82.4,P4+ Requires an SE,P11+
-469,118,P4+ Requires an SE,P11+,82.6,P4+ Requires an SE,P11+
-470,118.29,P4+ Requires an SE,P11+,82.8,P4+ Requires an SE,P11+
-471,118.57,P4+ Requires an SE,P11+,83,P4+ Requires an SE,P11+
-472,118.86,P4+ Requires an SE,P11+,83.2,P4+ Requires an SE,P11+
-473,119.14,P4+ Requires an SE,P11+,83.4,P4+ Requires an SE,P11+
-474,119.43,P4+ Requires an SE,P11+,83.6,P4+ Requires an SE,P11+
-475,119.71,P4+ Requires an SE,P11+,83.8,P4+ Requires an SE,P11+
-476,120,P4+ Requires an SE,P11+,84,P4+ Requires an SE,P11+
-477,120.29,P4+ Requires an SE,P11+,84.2,P4+ Requires an SE,P11+
-478,120.57,P4+ Requires an SE,P11+,84.4,P4+ Requires an SE,P11+
-479,120.86,P4+ Requires an SE,P11+,84.6,P4+ Requires an SE,P11+
-480,121.14,P4+ Requires an SE,P11+,84.8,P4+ Requires an SE,P11+
-481,121.43,P4+ Requires an SE,P11+,85,P4+ Requires an SE,P11+
-482,121.71,P4+ Requires an SE,P11+,85.2,P4+ Requires an SE,P11+
-483,122,P4+ Requires an SE,P11+,85.4,P4+ Requires an SE,P11+
-484,122.29,P4+ Requires an SE,P11+,85.6,P4+ Requires an SE,P11+
-485,122.57,P4+ Requires an SE,P11+,85.8,P4+ Requires an SE,P11+
-486,122.86,P4+ Requires an SE,P11+,86,P4+ Requires an SE,P11+
-487,123.14,P4+ Requires an SE,P11+,86.2,P4+ Requires an SE,P11+
-488,123.43,P4+ Requires an SE,P11+,86.4,P4+ Requires an SE,P11+
-489,123.71,P4+ Requires an SE,P11+,86.6,P4+ Requires an SE,P11+
-490,124,P4+ Requires an SE,P11+,86.8,P4+ Requires an SE,P11+
-491,124.29,P4+ Requires an SE,P11+,87,P4+ Requires an SE,P11+
-492,124.57,P4+ Requires an SE,P11+,87.2,P4+ Requires an SE,P11+
-493,124.86,P4+ Requires an SE,P11+,87.4,P4+ Requires an SE,P11+
-494,125.14,P4+ Requires an SE,P11+,87.6,P4+ Requires an SE,P11+
-495,125.43,P4+ Requires an SE,P11+,87.8,P4+ Requires an SE,P11+
-496,125.71,P4+ Requires an SE,P11+,88,P4+ Requires an SE,P11+
-497,126,P4+ Requires an SE,P11+,88.2,P4+ Requires an SE,P11+
-498,126.29,P4+ Requires an SE,P11+,88.4,P4+ Requires an SE,P11+
-499,126.57,P4+ Requires an SE,P11+,88.6,P4+ Requires an SE,P11+
-500,126.86,P4+ Requires an SE,P11+,88.8,P4+ Requires an SE,P11+
-501,127.14,P4+ Requires an SE,P11+,89,P4+ Requires an SE,P11+
-502,127.43,P4+ Requires an SE,P11+,89.2,P4+ Requires an SE,P11+
-503,127.71,P4+ Requires an SE,P11+,89.4,P4+ Requires an SE,P11+
-504,128,P4+ Requires an SE,P11+,89.6,P4+ Requires an SE,P11+
-505,128.29,P4+ Requires an SE,P11+,89.8,P4+ Requires an SE,P11+
-506,128.57,P4+ Requires an SE,P11+,90,P4+ Requires an SE,P11+
-507,128.86,P4+ Requires an SE,P11+,90.2,P4+ Requires an SE,P11+
-508,129.14,P4+ Requires an SE,P11+,90.4,P4+ Requires an SE,P11+
-509,129.43,P4+ Requires an SE,P11+,90.6,P4+ Requires an SE,P11+
-510,129.71,P4+ Requires an SE,P11+,90.8,P4+ Requires an SE,P11+
-511,130,P4+ Requires an SE,P11+,91,P4+ Requires an SE,P11+
-512,130.29,P4+ Requires an SE,P11+,91.2,P4+ Requires an SE,P11+
-513,130.57,P4+ Requires an SE,P11+,91.4,P4+ Requires an SE,P11+
-514,130.86,P4+ Requires an SE,P11+,91.6,P4+ Requires an SE,P11+
-515,131.14,P4+ Requires an SE,P11+,91.8,P4+ Requires an SE,P11+
-516,131.43,P4+ Requires an SE,P11+,92,P4+ Requires an SE,P11+
-517,131.71,P4+ Requires an SE,P11+,92.2,P4+ Requires an SE,P11+
-518,132,P4+ Requires an SE,P11+,92.4,P4+ Requires an SE,P11+
-519,132.29,P4+ Requires an SE,P11+,92.6,P4+ Requires an SE,P11+
-520,132.57,P4+ Requires an SE,P11+,92.8,P4+ Requires an SE,P11+
-521,132.86,P4+ Requires an SE,P11+,93,P4+ Requires an SE,P11+
-522,133.14,P4+ Requires an SE,P11+,93.2,P4+ Requires an SE,P11+
-523,133.43,P4+ Requires an SE,P11+,93.4,P4+ Requires an SE,P11+
-524,133.71,P4+ Requires an SE,P11+,93.6,P4+ Requires an SE,P11+
-525,134,P4+ Requires an SE,P11+,93.8,P4+ Requires an SE,P11+
-526,134.29,P4+ Requires an SE,P11+,94,P4+ Requires an SE,P11+
-527,134.57,P4+ Requires an SE,P11+,94.2,P4+ Requires an SE,P11+
-528,134.86,P4+ Requires an SE,P11+,94.4,P4+ Requires an SE,P11+
-529,135.14,P4+ Requires an SE,P11+,94.6,P4+ Requires an SE,P11+
-530,135.43,P4+ Requires an SE,P11+,94.8,P4+ Requires an SE,P11+
-531,135.71,P4+ Requires an SE,P11+,95,P4+ Requires an SE,P11+
-532,136,P4+ Requires an SE,P11+,95.2,P4+ Requires an SE,P11+
-533,136.29,P4+ Requires an SE,P11+,95.4,P4+ Requires an SE,P11+
-534,136.57,P4+ Requires an SE,P11+,95.6,P4+ Requires an SE,P11+
-535,136.86,P4+ Requires an SE,P11+,95.8,P4+ Requires an SE,P11+
-536,137.14,P4+ Requires an SE,P11+,96,P4+ Requires an SE,P11+
-537,137.43,P4+ Requires an SE,P11+,96.2,P4+ Requires an SE,P11+
-538,137.71,P4+ Requires an SE,P11+,96.4,P4+ Requires an SE,P11+
-539,138,P4+ Requires an SE,P11+,96.6,P4+ Requires an SE,P11+
-540,138.29,P4+ Requires an SE,P11+,96.8,P4+ Requires an SE,P11+
-541,138.57,P4+ Requires an SE,P11+,97,P4+ Requires an SE,P11+
-542,138.86,P4+ Requires an SE,P11+,97.2,P4+ Requires an SE,P11+
-543,139.14,P4+ Requires an SE,P11+,97.4,P4+ Requires an SE,P11+
-544,139.43,P4+ Requires an SE,P11+,97.6,P4+ Requires an SE,P11+
-545,139.71,P4+ Requires an SE,P11+,97.8,P4+ Requires an SE,P11+
-546,140,P4+ Requires an SE,P11+,98,P4+ Requires an SE,P11+
-547,140.29,P4+ Requires an SE,P11+,98.2,P4+ Requires an SE,P11+
-548,140.57,P4+ Requires an SE,P11+,98.4,P4+ Requires an SE,P11+
-549,140.86,P4+ Requires an SE,P11+,98.6,P4+ Requires an SE,P11+
-550,141.14,P4+ Requires an SE,P11+,98.8,P4+ Requires an SE,P11+
-551,141.43,P4+ Requires an SE,P11+,99,P4+ Requires an SE,P11+
-552,141.71,P4+ Requires an SE,P11+,99.2,P4+ Requires an SE,P11+
-553,142,P4+ Requires an SE,P11+,99.4,P4+ Requires an SE,P11+
-554,142.29,P4+ Requires an SE,P11+,99.6,P4+ Requires an SE,P11+
-555,142.57,P4+ Requires an SE,P11+,99.8,P4+ Requires an SE,P11+
-556,142.86,P4+ Requires an SE,P11+,100,P4+ Requires an SE,P11+
-557,143.14,P4+ Requires an SE,P11+,100.2,P4+ Requires an SE,P11+
-558,143.43,P4+ Requires an SE,P11+,100.4,P4+ Requires an SE,P11+
-559,143.71,P4+ Requires an SE,P11+,100.6,P4+ Requires an SE,P11+
-560,144,P4+ Requires an SE,P11+,100.8,P4+ Requires an SE,P11+
-561,144.29,P4+ Requires an SE,P11+,101,P4+ Requires an SE,P11+
-562,144.57,P4+ Requires an SE,P11+,101.2,P4+ Requires an SE,P11+
-563,144.86,P4+ Requires an SE,P11+,101.4,P4+ Requires an SE,P11+
-564,145.14,P4+ Requires an SE,P11+,101.6,P4+ Requires an SE,P11+
-565,145.43,P4+ Requires an SE,P11+,101.8,P4+ Requires an SE,P11+
-566,145.71,P4+ Requires an SE,P11+,102,P4+ Requires an SE,P11+
-567,146,P4+ Requires an SE,P11+,102.2,P4+ Requires an SE,P11+
-568,146.29,P4+ Requires an SE,P11+,102.4,P4+ Requires an SE,P11+
-569,146.57,P4+ Requires an SE,P11+,102.6,P4+ Requires an SE,P11+
-570,146.86,P4+ Requires an SE,P11+,102.8,P4+ Requires an SE,P11+
-571,147.14,P4+ Requires an SE,P11+,103,P4+ Requires an SE,P11+
-572,147.43,P4+ Requires an SE,P11+,103.2,P4+ Requires an SE,P11+
-573,147.71,P4+ Requires an SE,P11+,103.4,P4+ Requires an SE,P11+
-574,148,P4+ Requires an SE,P11+,103.6,P4+ Requires an SE,P11+
-575,148.29,P4+ Requires an SE,P11+,103.8,P4+ Requires an SE,P11+
-576,148.57,P4+ Requires an SE,P11+,104,P4+ Requires an SE,P11+
-577,148.86,P4+ Requires an SE,P11+,104.2,P4+ Requires an SE,P11+
-578,149.14,P4+ Requires an SE,P11+,104.4,P4+ Requires an SE,P11+
-579,149.43,P4+ Requires an SE,P11+,104.6,P4+ Requires an SE,P11+
-580,149.71,P4+ Requires an SE,P11+,104.8,P4+ Requires an SE,P11+
-581,150,P4+ Requires an SE,P11+,105,P4+ Requires an SE,P11+
-582,150.29,P4+ Requires an SE,P11+,105.2,P4+ Requires an SE,P11+
-583,150.57,P4+ Requires an SE,P11+,105.4,P4+ Requires an SE,P11+
-584,150.86,P4+ Requires an SE,P11+,105.6,P4+ Requires an SE,P11+
-585,151.14,P4+ Requires an SE,P11+,105.8,P4+ Requires an SE,P11+
-586,151.43,P4+ Requires an SE,P11+,106,P4+ Requires an SE,P11+
-587,151.71,P4+ Requires an SE,P11+,106.2,P4+ Requires an SE,P11+
-588,152,P4+ Requires an SE,P11+,106.4,P4+ Requires an SE,P11+
-589,152.29,P4+ Requires an SE,P11+,106.6,P4+ Requires an SE,P11+
-590,152.57,P4+ Requires an SE,P11+,106.8,P4+ Requires an SE,P11+
-591,152.86,P4+ Requires an SE,P11+,107,P4+ Requires an SE,P11+
-592,153.14,P4+ Requires an SE,P11+,107.2,P4+ Requires an SE,P11+
-593,153.43,P4+ Requires an SE,P11+,107.4,P4+ Requires an SE,P11+
-594,153.71,P4+ Requires an SE,P11+,107.6,P4+ Requires an SE,P11+
-595,154,P4+ Requires an SE,P11+,107.8,P4+ Requires an SE,P11+
-596,154.29,P4+ Requires an SE,P11+,108,P4+ Requires an SE,P11+
-597,154.57,P4+ Requires an SE,P11+,108.2,P4+ Requires an SE,P11+
-598,154.86,P4+ Requires an SE,P11+,108.4,P4+ Requires an SE,P11+
-599,155.14,P4+ Requires an SE,P11+,108.6,P4+ Requires an SE,P11+
-600,155.43,P4+ Requires an SE,P11+,108.8,P4+ Requires an SE,P11+
-601,155.71,P4+ Requires an SE,P11+,109,P4+ Requires an SE,P11+
-602,156,P4+ Requires an SE,P11+,109.2,P4+ Requires an SE,P11+
-603,156.29,P4+ Requires an SE,P11+,109.4,P4+ Requires an SE,P11+
-604,156.57,P4+ Requires an SE,P11+,109.6,P4+ Requires an SE,P11+
-605,156.86,P4+ Requires an SE,P11+,109.8,P4+ Requires an SE,P11+
-606,157.14,P4+ Requires an SE,P11+,110,P4+ Requires an SE,P11+
-607,157.43,P4+ Requires an SE,P11+,110.2,P4+ Requires an SE,P11+
-608,157.71,P4+ Requires an SE,P11+,110.4,P4+ Requires an SE,P11+
-609,158,P4+ Requires an SE,P11+,110.6,P4+ Requires an SE,P11+
-610,158.29,P4+ Requires an SE,P11+,110.8,P4+ Requires an SE,P11+
-611,158.57,P4+ Requires an SE,P11+,111,P4+ Requires an SE,P11+
-612,158.86,P4+ Requires an SE,P11+,111.2,P4+ Requires an SE,P11+
-613,159.14,P4+ Requires an SE,P11+,111.4,P4+ Requires an SE,P11+
-614,159.43,P4+ Requires an SE,P11+,111.6,P4+ Requires an SE,P11+
-615,159.71,P4+ Requires an SE,P11+,111.8,P4+ Requires an SE,P11+
-616,160,P4+ Requires an SE,P11+,112,P4+ Requires an SE,P11+
-617,160.29,P4+ Requires an SE,P11+,112.2,P4+ Requires an SE,P11+
-618,160.57,P4+ Requires an SE,P11+,112.4,P4+ Requires an SE,P11+
-619,160.86,P4+ Requires an SE,P11+,112.6,P4+ Requires an SE,P11+
-620,161.14,P4+ Requires an SE,P11+,112.8,P4+ Requires an SE,P11+
-621,161.43,P4+ Requires an SE,P11+,113,P4+ Requires an SE,P11+
-622,161.71,P4+ Requires an SE,P11+,113.2,P4+ Requires an SE,P11+
-623,162,P4+ Requires an SE,P11+,113.4,P4+ Requires an SE,P11+
-624,162.29,P4+ Requires an SE,P11+,113.6,P4+ Requires an SE,P11+
-625,162.57,P4+ Requires an SE,P11+,113.8,P4+ Requires an SE,P11+
-626,162.86,P4+ Requires an SE,P11+,114,P4+ Requires an SE,P11+
-627,163.14,P4+ Requires an SE,P11+,114.2,P4+ Requires an SE,P11+
-628,163.43,P4+ Requires an SE,P11+,114.4,P4+ Requires an SE,P11+
-629,163.71,P4+ Requires an SE,P11+,114.6,P4+ Requires an SE,P11+
-630,164,P4+ Requires an SE,P11+,114.8,P4+ Requires an SE,P11+
-631,164.29,P4+ Requires an SE,P11+,115,P4+ Requires an SE,P11+
-632,164.57,P4+ Requires an SE,P11+,115.2,P4+ Requires an SE,P11+
-633,164.86,P4+ Requires an SE,P11+,115.4,P4+ Requires an SE,P11+
-634,165.14,P4+ Requires an SE,P11+,115.6,P4+ Requires an SE,P11+
-635,165.43,P4+ Requires an SE,P11+,115.8,P4+ Requires an SE,P11+
-636,165.71,P4+ Requires an SE,P11+,116,P4+ Requires an SE,P11+
-637,166,P4+ Requires an SE,P11+,116.2,P4+ Requires an SE,P11+
-638,166.29,P4+ Requires an SE,P11+,116.4,P4+ Requires an SE,P11+
-639,166.57,P4+ Requires an SE,P11+,116.6,P4+ Requires an SE,P11+
-640,166.86,P4+ Requires an SE,P11+,116.8,P4+ Requires an SE,P11+
-641,167.14,P4+ Requires an SE,P11+,117,P4+ Requires an SE,P11+
-642,167.43,P4+ Requires an SE,P11+,117.2,P4+ Requires an SE,P11+
-643,167.71,P4+ Requires an SE,P11+,117.4,P4+ Requires an SE,P11+
-644,168,P4+ Requires an SE,P11+,117.6,P4+ Requires an SE,P11+
-645,168.29,P4+ Requires an SE,P11+,117.8,P4+ Requires an SE,P11+
-646,168.57,P4+ Requires an SE,P11+,118,P4+ Requires an SE,P11+
-647,168.86,P4+ Requires an SE,P11+,118.2,P4+ Requires an SE,P11+
-648,169.14,P4+ Requires an SE,P11+,118.4,P4+ Requires an SE,P11+
-649,169.43,P4+ Requires an SE,P11+,118.6,P4+ Requires an SE,P11+
-650,169.71,P4+ Requires an SE,P11+,118.8,P4+ Requires an SE,P11+
-651,170,P4+ Requires an SE,P11+,119,P4+ Requires an SE,P11+
-652,170.29,P4+ Requires an SE,P11+,119.2,P4+ Requires an SE,P11+
-653,170.57,P4+ Requires an SE,P11+,119.4,P4+ Requires an SE,P11+
-654,170.86,P4+ Requires an SE,P11+,119.6,P4+ Requires an SE,P11+
-655,171.14,P4+ Requires an SE,P11+,119.8,P4+ Requires an SE,P11+
-656,171.43,P4+ Requires an SE,P11+,120,P4+ Requires an SE,P11+
-657,171.71,P4+ Requires an SE,P11+,120.2,P4+ Requires an SE,P11+
-658,172,P4+ Requires an SE,P11+,120.4,P4+ Requires an SE,P11+
-659,172.29,P4+ Requires an SE,P11+,120.6,P4+ Requires an SE,P11+
-660,172.57,P4+ Requires an SE,P11+,120.8,P4+ Requires an SE,P11+
-661,172.86,P4+ Requires an SE,P11+,121,P4+ Requires an SE,P11+
-662,173.14,P4+ Requires an SE,P11+,121.2,P4+ Requires an SE,P11+
-663,173.43,P4+ Requires an SE,P11+,121.4,P4+ Requires an SE,P11+
-664,173.71,P4+ Requires an SE,P11+,121.6,P4+ Requires an SE,P11+
-665,174,P4+ Requires an SE,P11+,121.8,P4+ Requires an SE,P11+
-666,174.29,P4+ Requires an SE,P11+,122,P4+ Requires an SE,P11+
-667,174.57,P4+ Requires an SE,P11+,122.2,P4+ Requires an SE,P11+
-668,174.86,P4+ Requires an SE,P11+,122.4,P4+ Requires an SE,P11+
-669,175.14,P4+ Requires an SE,P11+,122.6,P4+ Requires an SE,P11+
-670,175.43,P4+ Requires an SE,P11+,122.8,P4+ Requires an SE,P11+
-671,175.71,P4+ Requires an SE,P11+,123,P4+ Requires an SE,P11+
-672,176,P4+ Requires an SE,P11+,123.2,P4+ Requires an SE,P11+
-673,176.29,P4+ Requires an SE,P11+,123.4,P4+ Requires an SE,P11+
-674,176.57,P4+ Requires an SE,P11+,123.6,P4+ Requires an SE,P11+
-675,176.86,P4+ Requires an SE,P11+,123.8,P4+ Requires an SE,P11+
-676,177.14,P4+ Requires an SE,P11+,124,P4+ Requires an SE,P11+
-677,177.43,P4+ Requires an SE,P11+,124.2,P4+ Requires an SE,P11+
-678,177.71,P4+ Requires an SE,P11+,124.4,P4+ Requires an SE,P11+
-679,178,P4+ Requires an SE,P11+,124.6,P4+ Requires an SE,P11+
-680,178.29,P4+ Requires an SE,P11+,124.8,P4+ Requires an SE,P11+
-681,178.57,P4+ Requires an SE,P11+,125,P4+ Requires an SE,P11+
-682,178.86,P4+ Requires an SE,P11+,125.2,P4+ Requires an SE,P11+
-683,179.14,P4+ Requires an SE,P11+,125.4,P4+ Requires an SE,P11+
-684,179.43,P4+ Requires an SE,P11+,125.6,P4+ Requires an SE,P11+
-685,179.71,P4+ Requires an SE,P11+,125.8,P4+ Requires an SE,P11+
-686,180,P4+ Requires an SE,P11+,126,P4+ Requires an SE,P11+
-687,180.29,P4+ Requires an SE,P11+,126.2,P4+ Requires an SE,P11+
-688,180.57,P4+ Requires an SE,P11+,126.4,P4+ Requires an SE,P11+
-689,180.86,P4+ Requires an SE,P11+,126.6,P4+ Requires an SE,P11+
-690,181.14,P4+ Requires an SE,P11+,126.8,P4+ Requires an SE,P11+
-691,181.43,P4+ Requires an SE,P11+,127,P4+ Requires an SE,P11+
-692,181.71,P4+ Requires an SE,P11+,127.2,P4+ Requires an SE,P11+
-693,182,P4+ Requires an SE,P11+,127.4,P4+ Requires an SE,P11+
-694,182.29,P4+ Requires an SE,P11+,127.6,P4+ Requires an SE,P11+
-695,182.57,P4+ Requires an SE,P11+,127.8,P4+ Requires an SE,P11+
-696,182.86,P4+ Requires an SE,P11+,128,P4+ Requires an SE,P11+
-697,183.14,P4+ Requires an SE,P11+,128.2,P4+ Requires an SE,P11+
-698,183.43,P4+ Requires an SE,P11+,128.4,P4+ Requires an SE,P11+
-699,183.71,P4+ Requires an SE,P11+,128.6,P4+ Requires an SE,P11+
-700,184,P4+ Requires an SE,P11+,128.8,P4+ Requires an SE,P11+
-701,184.29,P4+ Requires an SE,P11+,129,P4+ Requires an SE,P11+
-702,184.57,P4+ Requires an SE,P11+,129.2,P4+ Requires an SE,P11+
-703,184.86,P4+ Requires an SE,P11+,129.4,P4+ Requires an SE,P11+
-704,185.14,P4+ Requires an SE,P11+,129.6,P4+ Requires an SE,P11+
-705,185.43,P4+ Requires an SE,P11+,129.8,P4+ Requires an SE,P11+
-706,185.71,P4+ Requires an SE,P11+,130,P4+ Requires an SE,P11+
-707,186,P4+ Requires an SE,P11+,130.2,P4+ Requires an SE,P11+
-708,186.29,P4+ Requires an SE,P11+,130.4,P4+ Requires an SE,P11+
-709,186.57,P4+ Requires an SE,P11+,130.6,P4+ Requires an SE,P11+
-710,186.86,P4+ Requires an SE,P11+,130.8,P4+ Requires an SE,P11+
-711,187.14,P4+ Requires an SE,P11+,131,P4+ Requires an SE,P11+
-712,187.43,P4+ Requires an SE,P11+,131.2,P4+ Requires an SE,P11+
-713,187.71,P4+ Requires an SE,P11+,131.4,P4+ Requires an SE,P11+
-714,188,P4+ Requires an SE,P11+,131.6,P4+ Requires an SE,P11+
-715,188.29,P4+ Requires an SE,P11+,131.8,P4+ Requires an SE,P11+
-716,188.57,P4+ Requires an SE,P11+,132,P4+ Requires an SE,P11+
-717,188.86,P4+ Requires an SE,P11+,132.2,P4+ Requires an SE,P11+
-718,189.14,P4+ Requires an SE,P11+,132.4,P4+ Requires an SE,P11+
-719,189.43,P4+ Requires an SE,P11+,132.6,P4+ Requires an SE,P11+
-720,189.71,P4+ Requires an SE,P11+,132.8,P4+ Requires an SE,P11+
-721,190,P4+ Requires an SE,P11+,133,P4+ Requires an SE,P11+
-722,190.29,P4+ Requires an SE,P11+,133.2,P4+ Requires an SE,P11+
-723,190.57,P4+ Requires an SE,P11+,133.4,P4+ Requires an SE,P11+
-724,190.86,P4+ Requires an SE,P11+,133.6,P4+ Requires an SE,P11+
-725,191.14,P4+ Requires an SE,P11+,133.8,P4+ Requires an SE,P11+
-726,191.43,P4+ Requires an SE,P11+,134,P4+ Requires an SE,P11+
-727,191.71,P4+ Requires an SE,P11+,134.2,P4+ Requires an SE,P11+
-728,192,P4+ Requires an SE,P11+,134.4,P4+ Requires an SE,P11+
-729,192.29,P4+ Requires an SE,P11+,134.6,P4+ Requires an SE,P11+
-730,192.57,P4+ Requires an SE,P11+,134.8,P4+ Requires an SE,P11+
-731,192.86,P4+ Requires an SE,P11+,135,P4+ Requires an SE,P11+
-732,193.14,P4+ Requires an SE,P11+,135.2,P4+ Requires an SE,P11+
-733,193.43,P4+ Requires an SE,P11+,135.4,P4+ Requires an SE,P11+
-734,193.71,P4+ Requires an SE,P11+,135.6,P4+ Requires an SE,P11+
-735,194,P4+ Requires an SE,P11+,135.8,P4+ Requires an SE,P11+
-736,194.29,P4+ Requires an SE,P11+,136,P4+ Requires an SE,P11+
-737,194.57,P4+ Requires an SE,P11+,136.2,P4+ Requires an SE,P11+
-738,194.86,P4+ Requires an SE,P11+,136.4,P4+ Requires an SE,P11+
-739,195.14,P4+ Requires an SE,P11+,136.6,P4+ Requires an SE,P11+
-740,195.43,P4+ Requires an SE,P11+,136.8,P4+ Requires an SE,P11+
-741,195.71,P4+ Requires an SE,P11+,137,P4+ Requires an SE,P11+
-742,196,P4+ Requires an SE,P11+,137.2,P4+ Requires an SE,P11+
-743,196.29,P4+ Requires an SE,P11+,137.4,P4+ Requires an SE,P11+
-744,196.57,P4+ Requires an SE,P11+,137.6,P4+ Requires an SE,P11+
-745,196.86,P4+ Requires an SE,P11+,137.8,P4+ Requires an SE,P11+
-746,197.14,P4+ Requires an SE,P11+,138,P4+ Requires an SE,P11+
-747,197.43,P4+ Requires an SE,P11+,138.2,P4+ Requires an SE,P11+
-748,197.71,P4+ Requires an SE,P11+,138.4,P4+ Requires an SE,P11+
-749,198,P4+ Requires an SE,P11+,138.6,P4+ Requires an SE,P11+
-750,198.29,P4+ Requires an SE,P11+,138.8,P4+ Requires an SE,P11+
-751,198.57,P4+ Requires an SE,P11+,139,P4+ Requires an SE,P11+
-752,198.86,P4+ Requires an SE,P11+,139.2,P4+ Requires an SE,P11+
-753,199.14,P4+ Requires an SE,P11+,139.4,P4+ Requires an SE,P11+
-754,199.43,P4+ Requires an SE,P11+,139.6,P4+ Requires an SE,P11+
-755,199.71,P4+ Requires an SE,P11+,139.8,P4+ Requires an SE,P11+
-756,200,P4+ Requires an SE,P11+,140,P4+ Requires an SE,P11+
-757,200.29,P4+ Requires an SE,P11+,140.2,P4+ Requires an SE,P11+
-758,200.57,P4+ Requires an SE,P11+,140.4,P4+ Requires an SE,P11+
-759,200.86,P4+ Requires an SE,P11+,140.6,P4+ Requires an SE,P11+
-760,201.14,P4+ Requires an SE,P11+,140.8,P4+ Requires an SE,P11+
-761,201.43,P4+ Requires an SE,P11+,141,P4+ Requires an SE,P11+
-762,201.71,P4+ Requires an SE,P11+,141.2,P4+ Requires an SE,P11+
-763,202,P4+ Requires an SE,P11+,141.4,P4+ Requires an SE,P11+
-764,202.29,P4+ Requires an SE,P11+,141.6,P4+ Requires an SE,P11+
-765,202.57,P4+ Requires an SE,P11+,141.8,P4+ Requires an SE,P11+
-766,202.86,P4+ Requires an SE,P11+,142,P4+ Requires an SE,P11+
-767,203.14,P4+ Requires an SE,P11+,142.2,P4+ Requires an SE,P11+
-768,203.43,P4+ Requires an SE,P11+,142.4,P4+ Requires an SE,P11+
-769,203.71,P4+ Requires an SE,P11+,142.6,P4+ Requires an SE,P11+
-770,204,P4+ Requires an SE,P11+,142.8,P4+ Requires an SE,P11+
-771,204.29,P4+ Requires an SE,P11+,143,P4+ Requires an SE,P11+
-772,204.57,P4+ Requires an SE,P11+,143.2,P4+ Requires an SE,P11+
-773,204.86,P4+ Requires an SE,P11+,143.4,P4+ Requires an SE,P11+
-774,205.14,P4+ Requires an SE,P11+,143.6,P4+ Requires an SE,P11+
-775,205.43,P4+ Requires an SE,P11+,143.8,P4+ Requires an SE,P11+
-776,205.71,P4+ Requires an SE,P11+,144,P4+ Requires an SE,P11+
-777,206,P4+ Requires an SE,P11+,144.2,P4+ Requires an SE,P11+
-778,206.29,P4+ Requires an SE,P11+,144.4,P4+ Requires an SE,P11+
-779,206.57,P4+ Requires an SE,P11+,144.6,P4+ Requires an SE,P11+
-780,206.86,P4+ Requires an SE,P11+,144.8,P4+ Requires an SE,P11+
-781,207.14,P4+ Requires an SE,P11+,145,P4+ Requires an SE,P11+
-782,207.43,P4+ Requires an SE,P11+,145.2,P4+ Requires an SE,P11+
-783,207.71,P4+ Requires an SE,P11+,145.4,P4+ Requires an SE,P11+
-784,208,P4+ Requires an SE,P11+,145.6,P4+ Requires an SE,P11+
-785,208.29,P4+ Requires an SE,P11+,145.8,P4+ Requires an SE,P11+
-786,208.57,P4+ Requires an SE,P11+,146,P4+ Requires an SE,P11+
-787,208.86,P4+ Requires an SE,P11+,146.2,P4+ Requires an SE,P11+
-788,209.14,P4+ Requires an SE,P11+,146.4,P4+ Requires an SE,P11+
-789,209.43,P4+ Requires an SE,P11+,146.6,P4+ Requires an SE,P11+
-790,209.71,P4+ Requires an SE,P11+,146.8,P4+ Requires an SE,P11+
-791,210,P4+ Requires an SE,P11+,147,P4+ Requires an SE,P11+
-792,210.29,P4+ Requires an SE,P11+,147.2,P4+ Requires an SE,P11+
-793,210.57,P4+ Requires an SE,P11+,147.4,P4+ Requires an SE,P11+
-794,210.86,P4+ Requires an SE,P11+,147.6,P4+ Requires an SE,P11+
-795,211.14,P4+ Requires an SE,P11+,147.8,P4+ Requires an SE,P11+
-796,211.43,P4+ Requires an SE,P11+,148,P4+ Requires an SE,P11+
-797,211.71,P4+ Requires an SE,P11+,148.2,P4+ Requires an SE,P11+
-798,212,P4+ Requires an SE,P11+,148.4,P4+ Requires an SE,P11+
-799,212.29,P4+ Requires an SE,P11+,148.6,P4+ Requires an SE,P11+
-800,212.57,P4+ Requires an SE,P11+,148.8,P4+ Requires an SE,P11+
-801,212.86,P4+ Requires an SE,P11+,149,P4+ Requires an SE,P11+
-802,213.14,P4+ Requires an SE,P11+,149.2,P4+ Requires an SE,P11+
-803,213.43,P4+ Requires an SE,P11+,149.4,P4+ Requires an SE,P11+
-804,213.71,P4+ Requires an SE,P11+,149.6,P4+ Requires an SE,P11+
-805,214,P4+ Requires an SE,P11+,149.8,P4+ Requires an SE,P11+
-806,214.29,P4+ Requires an SE,P11+,150,P4+ Requires an SE,P11+
-807,214.57,P4+ Requires an SE,P11+,150.2,P4+ Requires an SE,P11+
-808,214.86,P4+ Requires an SE,P11+,150.4,P4+ Requires an SE,P11+
-809,215.14,P4+ Requires an SE,P11+,150.6,P4+ Requires an SE,P11+
-810,215.43,P4+ Requires an SE,P11+,150.8,P4+ Requires an SE,P11+
-811,215.71,P4+ Requires an SE,P11+,151,P4+ Requires an SE,P11+
-812,216,P4+ Requires an SE,P11+,151.2,P4+ Requires an SE,P11+
-813,216.29,P4+ Requires an SE,P11+,151.4,P4+ Requires an SE,P11+
-814,216.57,P4+ Requires an SE,P11+,151.6,P4+ Requires an SE,P11+
-815,216.86,P4+ Requires an SE,P11+,151.8,P4+ Requires an SE,P11+
-816,217.14,P4+ Requires an SE,P11+,152,P4+ Requires an SE,P11+
-817,217.43,P4+ Requires an SE,P11+,152.2,P4+ Requires an SE,P11+
-818,217.71,P4+ Requires an SE,P11+,152.4,P4+ Requires an SE,P11+
-819,218,P4+ Requires an SE,P11+,152.6,P4+ Requires an SE,P11+
-820,218.29,P4+ Requires an SE,P11+,152.8,P4+ Requires an SE,P11+
-821,218.57,P4+ Requires an SE,P11+,153,P4+ Requires an SE,P11+
-822,218.86,P4+ Requires an SE,P11+,153.2,P4+ Requires an SE,P11+
-823,219.14,P4+ Requires an SE,P11+,153.4,P4+ Requires an SE,P11+
-824,219.43,P4+ Requires an SE,P11+,153.6,P4+ Requires an SE,P11+
-825,219.71,P4+ Requires an SE,P11+,153.8,P4+ Requires an SE,P11+
-826,220,P4+ Requires an SE,P11+,154,P4+ Requires an SE,P11+
-827,220.29,P4+ Requires an SE,P11+,154.2,P4+ Requires an SE,P11+
-828,220.57,P4+ Requires an SE,P11+,154.4,P4+ Requires an SE,P11+
-829,220.86,P4+ Requires an SE,P11+,154.6,P4+ Requires an SE,P11+
-830,221.14,P4+ Requires an SE,P11+,154.8,P4+ Requires an SE,P11+
-831,221.43,P4+ Requires an SE,P11+,155,P4+ Requires an SE,P11+
-832,221.71,P4+ Requires an SE,P11+,155.2,P4+ Requires an SE,P11+
-833,222,P4+ Requires an SE,P11+,155.4,P4+ Requires an SE,P11+
-834,222.29,P4+ Requires an SE,P11+,155.6,P4+ Requires an SE,P11+
-835,222.57,P4+ Requires an SE,P11+,155.8,P4+ Requires an SE,P11+
-836,222.86,P4+ Requires an SE,P11+,156,P4+ Requires an SE,P11+
-837,223.14,P4+ Requires an SE,P11+,156.2,P4+ Requires an SE,P11+
-838,223.43,P4+ Requires an SE,P11+,156.4,P4+ Requires an SE,P11+
-839,223.71,P4+ Requires an SE,P11+,156.6,P4+ Requires an SE,P11+
-840,224,P4+ Requires an SE,P11+,156.8,P4+ Requires an SE,P11+
+0,1.5,P0,P0,1.05,P0,P0,2.34%
+1,1.5,P0,P0,1.05,P0,P0,2.34%
+2,1.5,P0,P0,1.05,P0,P0,2.34%
+3,1.5,P0,P0,1.05,P0,P0,2.34%
+4,1.5,P0,P0,1.05,P0,P0,2.34%
+5,1.5,P0,P0,1.05,P0,P0,2.34%
+6,1.6,P0,P0,1.12,P0,P0,2.50%
+7,1.7,P0,P0,1.19,P0,P0,2.66%
+8,1.8,P0,P0,1.26,P0,P0,2.81%
+9,1.9,P0,P0,1.33,P0,P0,2.97%
+10,2,P0,P0,1.4,P0,P0,3.13%
+11,2.1,P0,P0,1.47,P0,P0,3.28%
+12,2.2,P0,P0,1.54,P0,P0,3.44%
+13,2.3,P0,P0,1.61,P0,P0,3.59%
+14,2.4,P0,P0,1.68,P0,P0,3.75%
+15,2.5,P0,P0,1.75,P0,P0,3.91%
+16,2.6,P0,P0,1.82,P0,P0,4.06%
+17,2.7,P0,P0,1.89,P0,P0,4.22%
+18,2.8,P0,P0,1.96,P0,P0,4.38%
+19,2.9,P0,P0,2.03,P0,P0,4.53%
+20,3,P0,P0,2.1,P0,P0,4.69%
+21,3.08,P0,P0,2.16,P0,P0,4.82%
+22,3.17,P0,P0,2.22,P0,P0,4.95%
+23,3.25,P0,P0,2.28,P0,P0,5.08%
+24,3.33,P0,P0,2.33,P0,P0,5.21%
+25,3.42,P0,P0,2.39,P0,P0,5.34%
+26,3.5,P0,P0,2.45,P0,P0,5.47%
+27,3.58,P1,P1,2.51,P0,P0,5.60%
+28,3.67,P1,P1,2.57,P0,P0,5.73%
+29,3.75,P1,P1,2.63,P0,P0,5.86%
+30,3.83,P1,P1,2.68,P0,P0,5.99%
+31,3.92,P1,P1,2.74,P0,P0,6.12%
+32,4,P1,P1,2.8,P0,P0,6.25%
+33,4.06,P1.5,P1.5,2.84,P0,P0,6.35%
+34,4.13,P1.5,P1.5,2.89,P0,P0,6.45%
+35,4.19,P1.5,P1.5,2.93,P0,P0,6.54%
+36,4.25,P1.5,P1.5,2.98,P0,P0,6.64%
+37,4.31,P1.5,P1.5,3.02,P0,P0,6.74%
+38,4.38,P1.5,P1.5,3.06,P0,P0,6.84%
+39,4.44,P1.5,P1.5,3.11,P0,P0,6.93%
+40,4.5,P1.5,P1.5,3.15,P0,P0,7.03%
+41,4.56,P1.5,P1.5,3.19,P0,P0,7.13%
+42,4.63,P1.5,P1.5,3.24,P0,P0,7.23%
+43,4.69,P1.5,P1.5,3.28,P0,P0,7.32%
+44,4.75,P1.5,P1.5,3.33,P0,P0,7.42%
+45,4.81,P1.5,P1.5,3.37,P0,P0,7.52%
+46,4.88,P1.5,P1.5,3.41,P0,P0,7.62%
+47,4.94,P1.5,P1.5,3.46,P0,P0,7.71%
+48,5,P1.5,P1.5,3.5,P0,P0,7.81%
+49,5.17,P2,P2,3.62,P1,P1,8.07%
+50,5.33,P2,P2,3.73,P1,P1,8.33%
+51,5.5,P2,P2,3.85,P1,P1,8.59%
+52,5.67,P2,P2,3.97,P1,P1,8.85%
+53,5.83,P2,P2,4.08,P1.5,P1.5,9.11%
+54,6,P2,P2,4.2,P1.5,P1.5,9.38%
+55,6.14,P3,P3,4.3,P1.5,P1.5,9.60%
+56,6.29,P3,P3,4.4,P1.5,P1.5,9.82%
+57,6.43,P3,P3,4.5,P1.5,P1.5,10.04%
+58,6.57,P3,P3,4.6,P1.5,P1.5,10.27%
+59,6.71,P3,P3,4.7,P1.5,P1.5,10.49%
+60,6.86,P3,P3,4.8,P1.5,P1.5,10.71%
+61,7,P3,P3,4.9,P1.5,P1.5,10.94%
+62,7.14,P3,P3,5,P1.5,P1.5,11.16%
+63,7.29,P3,P3,5.1,P2,P2,11.38%
+64,7.43,P3,P3,5.2,P2,P2,11.61%
+65,7.57,P3,P3,5.3,P2,P2,11.83%
+66,7.71,P3,P3,5.4,P2,P2,12.05%
+67,7.86,P3,P3,5.5,P2,P2,12.28%
+68,8,P3,P3,5.6,P2,P2,12.50%
+69,8.18,P4+ Requires an SE,P4,5.73,P2,P2,12.78%
+70,8.36,P4+ Requires an SE,P4,5.85,P2,P2,13.07%
+71,8.55,P4+ Requires an SE,P4,5.98,P2,P2,13.35%
+72,8.73,P4+ Requires an SE,P4,6.11,P3,P3,13.64%
+73,8.91,P4+ Requires an SE,P4,6.24,P3,P3,13.92%
+74,9.09,P4+ Requires an SE,P4,6.36,P3,P3,14.20%
+75,9.27,P4+ Requires an SE,P4,6.49,P3,P3,14.49%
+76,9.45,P4+ Requires an SE,P4,6.62,P3,P3,14.77%
+77,9.64,P4+ Requires an SE,P4,6.75,P3,P3,15.06%
+78,9.82,P4+ Requires an SE,P4,6.87,P3,P3,15.34%
+79,10,P4+ Requires an SE,P4,7,P3,P3,15.63%
+80,10.18,P4+ Requires an SE,P4,7.13,P3,P3,15.91%
+81,10.36,P4+ Requires an SE,P4,7.25,P3,P3,16.19%
+82,10.55,P4+ Requires an SE,P4,7.38,P3,P3,16.48%
+83,10.73,P4+ Requires an SE,P4,7.51,P3,P3,16.76%
+84,10.91,P4+ Requires an SE,P4,7.64,P3,P3,17.05%
+85,11.09,P4+ Requires an SE,P4,7.76,P3,P3,17.33%
+86,11.27,P4+ Requires an SE,P4,7.89,P3,P3,17.61%
+87,11.45,P4+ Requires an SE,P4,8.02,P4+ Requires an SE,P4,17.90%
+88,11.64,P4+ Requires an SE,P4,8.15,P4+ Requires an SE,P4,18.18%
+89,11.82,P4+ Requires an SE,P4,8.27,P4+ Requires an SE,P4,18.47%
+90,12,P4+ Requires an SE,P4,8.4,P4+ Requires an SE,P4,18.75%
+91,12.18,P4+ Requires an SE,P4,8.53,P4+ Requires an SE,P4,19.03%
+92,12.36,P4+ Requires an SE,P4,8.65,P4+ Requires an SE,P4,19.32%
+93,12.55,P4+ Requires an SE,P4,8.78,P4+ Requires an SE,P4,19.60%
+94,12.73,P4+ Requires an SE,P4,8.91,P4+ Requires an SE,P4,19.89%
+95,12.91,P4+ Requires an SE,P4,9.04,P4+ Requires an SE,P4,20.17%
+96,13.09,P4+ Requires an SE,P4,9.16,P4+ Requires an SE,P4,20.45%
+97,13.27,P4+ Requires an SE,P4,9.29,P4+ Requires an SE,P4,20.74%
+98,13.45,P4+ Requires an SE,P4,9.42,P4+ Requires an SE,P4,21.02%
+99,13.64,P4+ Requires an SE,P4,9.55,P4+ Requires an SE,P4,21.31%
+100,13.82,P4+ Requires an SE,P4,9.67,P4+ Requires an SE,P4,21.59%
+101,14,P4+ Requires an SE,P4,9.8,P4+ Requires an SE,P4,21.88%
+102,14.18,P4+ Requires an SE,P4,9.93,P4+ Requires an SE,P4,22.16%
+103,14.36,P4+ Requires an SE,P4,10.05,P4+ Requires an SE,P4,22.44%
+104,14.55,P4+ Requires an SE,P4,10.18,P4+ Requires an SE,P4,22.73%
+105,14.73,P4+ Requires an SE,P4,10.31,P4+ Requires an SE,P4,23.01%
+106,14.91,P4+ Requires an SE,P4,10.44,P4+ Requires an SE,P4,23.30%
+107,15.09,P4+ Requires an SE,P4,10.56,P4+ Requires an SE,P4,23.58%
+108,15.27,P4+ Requires an SE,P4,10.69,P4+ Requires an SE,P4,23.86%
+109,15.45,P4+ Requires an SE,P4,10.82,P4+ Requires an SE,P4,24.15%
+110,15.64,P4+ Requires an SE,P4,10.95,P4+ Requires an SE,P4,24.43%
+111,15.82,P4+ Requires an SE,P4,11.07,P4+ Requires an SE,P4,24.72%
+112,16,P4+ Requires an SE,P4,11.2,P4+ Requires an SE,P4,25.00%
+113,16.29,P4+ Requires an SE,P5,11.4,P4+ Requires an SE,P4,25.45%
+114,16.57,P4+ Requires an SE,P5,11.6,P4+ Requires an SE,P4,25.89%
+115,16.86,P4+ Requires an SE,P5,11.8,P4+ Requires an SE,P4,26.34%
+116,17.14,P4+ Requires an SE,P5,12,P4+ Requires an SE,P4,26.79%
+117,17.43,P4+ Requires an SE,P5,12.2,P4+ Requires an SE,P4,27.23%
+118,17.71,P4+ Requires an SE,P5,12.4,P4+ Requires an SE,P4,27.68%
+119,18,P4+ Requires an SE,P5,12.6,P4+ Requires an SE,P4,28.13%
+120,18.29,P4+ Requires an SE,P5,12.8,P4+ Requires an SE,P4,28.57%
+121,18.57,P4+ Requires an SE,P5,13,P4+ Requires an SE,P4,29.02%
+122,18.86,P4+ Requires an SE,P5,13.2,P4+ Requires an SE,P4,29.46%
+123,19.14,P4+ Requires an SE,P5,13.4,P4+ Requires an SE,P4,29.91%
+124,19.43,P4+ Requires an SE,P5,13.6,P4+ Requires an SE,P4,30.36%
+125,19.71,P4+ Requires an SE,P5,13.8,P4+ Requires an SE,P4,30.80%
+126,20,P4+ Requires an SE,P5,14,P4+ Requires an SE,P4,31.25%
+127,20.29,P4+ Requires an SE,P5,14.2,P4+ Requires an SE,P4,31.70%
+128,20.57,P4+ Requires an SE,P5,14.4,P4+ Requires an SE,P4,32.14%
+129,20.86,P4+ Requires an SE,P5,14.6,P4+ Requires an SE,P4,32.59%
+130,21.14,P4+ Requires an SE,P5,14.8,P4+ Requires an SE,P4,33.04%
+131,21.43,P4+ Requires an SE,P5,15,P4+ Requires an SE,P4,33.48%
+132,21.71,P4+ Requires an SE,P5,15.2,P4+ Requires an SE,P4,33.93%
+133,22,P4+ Requires an SE,P5,15.4,P4+ Requires an SE,P4,34.38%
+134,22.29,P4+ Requires an SE,P5,15.6,P4+ Requires an SE,P4,34.82%
+135,22.57,P4+ Requires an SE,P5,15.8,P4+ Requires an SE,P4,35.27%
+136,22.86,P4+ Requires an SE,P5,16,P4+ Requires an SE,P4,35.71%
+137,23.14,P4+ Requires an SE,P5,16.2,P4+ Requires an SE,P5,36.16%
+138,23.43,P4+ Requires an SE,P5,16.4,P4+ Requires an SE,P5,36.61%
+139,23.71,P4+ Requires an SE,P5,16.6,P4+ Requires an SE,P5,37.05%
+140,24,P4+ Requires an SE,P5,16.8,P4+ Requires an SE,P5,37.50%
+141,24.29,P4+ Requires an SE,P6,17,P4+ Requires an SE,P5,37.95%
+142,24.57,P4+ Requires an SE,P6,17.2,P4+ Requires an SE,P5,38.39%
+143,24.86,P4+ Requires an SE,P6,17.4,P4+ Requires an SE,P5,38.84%
+144,25.14,P4+ Requires an SE,P6,17.6,P4+ Requires an SE,P5,39.29%
+145,25.43,P4+ Requires an SE,P6,17.8,P4+ Requires an SE,P5,39.73%
+146,25.71,P4+ Requires an SE,P6,18,P4+ Requires an SE,P5,40.18%
+147,26,P4+ Requires an SE,P6,18.2,P4+ Requires an SE,P5,40.63%
+148,26.29,P4+ Requires an SE,P6,18.4,P4+ Requires an SE,P5,41.07%
+149,26.57,P4+ Requires an SE,P6,18.6,P4+ Requires an SE,P5,41.52%
+150,26.86,P4+ Requires an SE,P6,18.8,P4+ Requires an SE,P5,41.96%
+151,27.14,P4+ Requires an SE,P6,19,P4+ Requires an SE,P5,42.41%
+152,27.43,P4+ Requires an SE,P6,19.2,P4+ Requires an SE,P5,42.86%
+153,27.71,P4+ Requires an SE,P6,19.4,P4+ Requires an SE,P5,43.30%
+154,28,P4+ Requires an SE,P6,19.6,P4+ Requires an SE,P5,43.75%
+155,28.29,P4+ Requires an SE,P6,19.8,P4+ Requires an SE,P5,44.20%
+156,28.57,P4+ Requires an SE,P6,20,P4+ Requires an SE,P5,44.64%
+157,28.86,P4+ Requires an SE,P6,20.2,P4+ Requires an SE,P5,45.09%
+158,29.14,P4+ Requires an SE,P6,20.4,P4+ Requires an SE,P5,45.54%
+159,29.43,P4+ Requires an SE,P6,20.6,P4+ Requires an SE,P5,45.98%
+160,29.71,P4+ Requires an SE,P6,20.8,P4+ Requires an SE,P5,46.43%
+161,30,P4+ Requires an SE,P6,21,P4+ Requires an SE,P5,46.88%
+162,30.29,P4+ Requires an SE,P6,21.2,P4+ Requires an SE,P5,47.32%
+163,30.57,P4+ Requires an SE,P6,21.4,P4+ Requires an SE,P5,47.77%
+164,30.86,P4+ Requires an SE,P6,21.6,P4+ Requires an SE,P5,48.21%
+165,31.14,P4+ Requires an SE,P6,21.8,P4+ Requires an SE,P5,48.66%
+166,31.43,P4+ Requires an SE,P6,22,P4+ Requires an SE,P5,49.11%
+167,31.71,P4+ Requires an SE,P6,22.2,P4+ Requires an SE,P5,49.55%
+168,32,P4+ Requires an SE,P6,22.4,P4+ Requires an SE,P5,50.00%
+169,32.29,P4+ Requires an SE,P7,22.6,P4+ Requires an SE,P5,50.45%
+170,32.57,P4+ Requires an SE,P7,22.8,P4+ Requires an SE,P5,50.89%
+171,32.86,P4+ Requires an SE,P7,23,P4+ Requires an SE,P5,51.34%
+172,33.14,P4+ Requires an SE,P7,23.2,P4+ Requires an SE,P5,51.79%
+173,33.43,P4+ Requires an SE,P7,23.4,P4+ Requires an SE,P5,52.23%
+174,33.71,P4+ Requires an SE,P7,23.6,P4+ Requires an SE,P5,52.68%
+175,34,P4+ Requires an SE,P7,23.8,P4+ Requires an SE,P5,53.12%
+176,34.29,P4+ Requires an SE,P7,24,P4+ Requires an SE,P5,53.57%
+177,34.57,P4+ Requires an SE,P7,24.2,P4+ Requires an SE,P6,54.02%
+178,34.86,P4+ Requires an SE,P7,24.4,P4+ Requires an SE,P6,54.46%
+179,35.14,P4+ Requires an SE,P7,24.6,P4+ Requires an SE,P6,54.91%
+180,35.43,P4+ Requires an SE,P7,24.8,P4+ Requires an SE,P6,55.36%
+181,35.71,P4+ Requires an SE,P7,25,P4+ Requires an SE,P6,55.80%
+182,36,P4+ Requires an SE,P7,25.2,P4+ Requires an SE,P6,56.25%
+183,36.29,P4+ Requires an SE,P7,25.4,P4+ Requires an SE,P6,56.70%
+184,36.57,P4+ Requires an SE,P7,25.6,P4+ Requires an SE,P6,57.14%
+185,36.86,P4+ Requires an SE,P7,25.8,P4+ Requires an SE,P6,57.59%
+186,37.14,P4+ Requires an SE,P7,26,P4+ Requires an SE,P6,58.04%
+187,37.43,P4+ Requires an SE,P7,26.2,P4+ Requires an SE,P6,58.48%
+188,37.71,P4+ Requires an SE,P7,26.4,P4+ Requires an SE,P6,58.93%
+189,38,P4+ Requires an SE,P7,26.6,P4+ Requires an SE,P6,59.37%
+190,38.29,P4+ Requires an SE,P7,26.8,P4+ Requires an SE,P6,59.82%
+191,38.57,P4+ Requires an SE,P7,27,P4+ Requires an SE,P6,60.27%
+192,38.86,P4+ Requires an SE,P7,27.2,P4+ Requires an SE,P6,60.71%
+193,39.14,P4+ Requires an SE,P7,27.4,P4+ Requires an SE,P6,61.16%
+194,39.43,P4+ Requires an SE,P7,27.6,P4+ Requires an SE,P6,61.61%
+195,39.71,P4+ Requires an SE,P7,27.8,P4+ Requires an SE,P6,62.05%
+196,40,P4+ Requires an SE,P7,28,P4+ Requires an SE,P6,62.50%
+197,40.29,P4+ Requires an SE,P8,28.2,P4+ Requires an SE,P6,62.95%
+198,40.57,P4+ Requires an SE,P8,28.4,P4+ Requires an SE,P6,63.39%
+199,40.86,P4+ Requires an SE,P8,28.6,P4+ Requires an SE,P6,63.84%
+200,41.14,P4+ Requires an SE,P8,28.8,P4+ Requires an SE,P6,64.29%
+201,41.43,P4+ Requires an SE,P8,29,P4+ Requires an SE,P6,64.73%
+202,41.71,P4+ Requires an SE,P8,29.2,P4+ Requires an SE,P6,65.18%
+203,42,P4+ Requires an SE,P8,29.4,P4+ Requires an SE,P6,65.62%
+204,42.29,P4+ Requires an SE,P8,29.6,P4+ Requires an SE,P6,66.07%
+205,42.57,P4+ Requires an SE,P8,29.8,P4+ Requires an SE,P6,66.52%
+206,42.86,P4+ Requires an SE,P8,30,P4+ Requires an SE,P6,66.96%
+207,43.14,P4+ Requires an SE,P8,30.2,P4+ Requires an SE,P6,67.41%
+208,43.43,P4+ Requires an SE,P8,30.4,P4+ Requires an SE,P6,67.86%
+209,43.71,P4+ Requires an SE,P8,30.6,P4+ Requires an SE,P6,68.30%
+210,44,P4+ Requires an SE,P8,30.8,P4+ Requires an SE,P6,68.75%
+211,44.29,P4+ Requires an SE,P8,31,P4+ Requires an SE,P6,69.20%
+212,44.57,P4+ Requires an SE,P8,31.2,P4+ Requires an SE,P6,69.64%
+213,44.86,P4+ Requires an SE,P8,31.4,P4+ Requires an SE,P6,70.09%
+214,45.14,P4+ Requires an SE,P8,31.6,P4+ Requires an SE,P6,70.54%
+215,45.43,P4+ Requires an SE,P8,31.8,P4+ Requires an SE,P6,70.98%
+216,45.71,P4+ Requires an SE,P8,32,P4+ Requires an SE,P6,71.43%
+217,46,P4+ Requires an SE,P8,32.2,P4+ Requires an SE,P7,71.87%
+218,46.29,P4+ Requires an SE,P8,32.4,P4+ Requires an SE,P7,72.32%
+219,46.57,P4+ Requires an SE,P8,32.6,P4+ Requires an SE,P7,72.77%
+220,46.86,P4+ Requires an SE,P8,32.8,P4+ Requires an SE,P7,73.21%
+221,47.14,P4+ Requires an SE,P8,33,P4+ Requires an SE,P7,73.66%
+222,47.43,P4+ Requires an SE,P8,33.2,P4+ Requires an SE,P7,74.11%
+223,47.71,P4+ Requires an SE,P8,33.4,P4+ Requires an SE,P7,74.55%
+224,48,P4+ Requires an SE,P8,33.6,P4+ Requires an SE,P7,75.00%
+225,48.29,P4+ Requires an SE,P9,33.8,P4+ Requires an SE,P7,75.45%
+226,48.57,P4+ Requires an SE,P9,34,P4+ Requires an SE,P7,75.89%
+227,48.86,P4+ Requires an SE,P9,34.2,P4+ Requires an SE,P7,76.34%
+228,49.14,P4+ Requires an SE,P9,34.4,P4+ Requires an SE,P7,76.79%
+229,49.43,P4+ Requires an SE,P9,34.6,P4+ Requires an SE,P7,77.23%
+230,49.71,P4+ Requires an SE,P9,34.8,P4+ Requires an SE,P7,77.68%
+231,50,P4+ Requires an SE,P9,35,P4+ Requires an SE,P7,78.12%
+232,50.29,P4+ Requires an SE,P9,35.2,P4+ Requires an SE,P7,78.57%
+233,50.57,P4+ Requires an SE,P9,35.4,P4+ Requires an SE,P7,79.02%
+234,50.86,P4+ Requires an SE,P9,35.6,P4+ Requires an SE,P7,79.46%
+235,51.14,P4+ Requires an SE,P9,35.8,P4+ Requires an SE,P7,79.91%
+236,51.43,P4+ Requires an SE,P9,36,P4+ Requires an SE,P7,80.36%
+237,51.71,P4+ Requires an SE,P9,36.2,P4+ Requires an SE,P7,80.80%
+238,52,P4+ Requires an SE,P9,36.4,P4+ Requires an SE,P7,81.25%
+239,52.29,P4+ Requires an SE,P9,36.6,P4+ Requires an SE,P7,81.70%
+240,52.57,P4+ Requires an SE,P9,36.8,P4+ Requires an SE,P7,82.14%
+241,52.86,P4+ Requires an SE,P9,37,P4+ Requires an SE,P7,82.59%
+242,53.14,P4+ Requires an SE,P9,37.2,P4+ Requires an SE,P7,83.04%
+243,53.43,P4+ Requires an SE,P9,37.4,P4+ Requires an SE,P7,83.48%
+244,53.71,P4+ Requires an SE,P9,37.6,P4+ Requires an SE,P7,83.93%
+245,54,P4+ Requires an SE,P9,37.8,P4+ Requires an SE,P7,84.37%
+246,54.29,P4+ Requires an SE,P9,38,P4+ Requires an SE,P7,84.82%
+247,54.57,P4+ Requires an SE,P9,38.2,P4+ Requires an SE,P7,85.27%
+248,54.86,P4+ Requires an SE,P9,38.4,P4+ Requires an SE,P7,85.71%
+249,55.14,P4+ Requires an SE,P9,38.6,P4+ Requires an SE,P7,86.16%
+250,55.43,P4+ Requires an SE,P9,38.8,P4+ Requires an SE,P7,86.61%
+251,55.71,P4+ Requires an SE,P9,39,P4+ Requires an SE,P7,87.05%
+252,56,P4+ Requires an SE,P9,39.2,P4+ Requires an SE,P7,87.50%
+253,56.29,P4+ Requires an SE,P10,39.4,P4+ Requires an SE,P7,87.95%
+254,56.57,P4+ Requires an SE,P10,39.6,P4+ Requires an SE,P7,88.39%
+255,56.86,P4+ Requires an SE,P10,39.8,P4+ Requires an SE,P7,88.84%
+256,57.14,P4+ Requires an SE,P10,40,P4+ Requires an SE,P7,89.29%
+257,57.43,P4+ Requires an SE,P10,40.2,P4+ Requires an SE,P8,89.73%
+258,57.71,P4+ Requires an SE,P10,40.4,P4+ Requires an SE,P8,90.18%
+259,58,P4+ Requires an SE,P10,40.6,P4+ Requires an SE,P8,90.62%
+260,58.29,P4+ Requires an SE,P10,40.8,P4+ Requires an SE,P8,91.07%
+261,58.57,P4+ Requires an SE,P10,41,P4+ Requires an SE,P8,91.52%
+262,58.86,P4+ Requires an SE,P10,41.2,P4+ Requires an SE,P8,91.96%
+263,59.14,P4+ Requires an SE,P10,41.4,P4+ Requires an SE,P8,92.41%
+264,59.43,P4+ Requires an SE,P10,41.6,P4+ Requires an SE,P8,92.86%
+265,59.71,P4+ Requires an SE,P10,41.8,P4+ Requires an SE,P8,93.30%
+266,60,P4+ Requires an SE,P10,42,P4+ Requires an SE,P8,93.75%
+267,60.29,P4+ Requires an SE,P10,42.2,P4+ Requires an SE,P8,94.20%
+268,60.57,P4+ Requires an SE,P10,42.4,P4+ Requires an SE,P8,94.64%
+269,60.86,P4+ Requires an SE,P10,42.6,P4+ Requires an SE,P8,95.09%
+270,61.14,P4+ Requires an SE,P10,42.8,P4+ Requires an SE,P8,95.54%
+271,61.43,P4+ Requires an SE,P10,43,P4+ Requires an SE,P8,95.98%
+272,61.71,P4+ Requires an SE,P10,43.2,P4+ Requires an SE,P8,96.43%
+273,62,P4+ Requires an SE,P10,43.4,P4+ Requires an SE,P8,96.87%
+274,62.29,P4+ Requires an SE,P10,43.6,P4+ Requires an SE,P8,97.32%
+275,62.57,P4+ Requires an SE,P10,43.8,P4+ Requires an SE,P8,97.77%
+276,62.86,P4+ Requires an SE,P10,44,P4+ Requires an SE,P8,98.21%
+277,63.14,P4+ Requires an SE,P10,44.2,P4+ Requires an SE,P8,98.66%
+278,63.43,P4+ Requires an SE,P10,44.4,P4+ Requires an SE,P8,99.11%
+279,63.71,P4+ Requires an SE,P10,44.6,P4+ Requires an SE,P8,99.55%
+280,64,P4+ Requires an SE,P10,44.8,P4+ Requires an SE,P8,100.00%
+281,64.29,P4+ Requires an SE,P11+,45,P4+ Requires an SE,P8,100.45%
+282,64.57,P4+ Requires an SE,P11+,45.2,P4+ Requires an SE,P8,100.89%
+283,64.86,P4+ Requires an SE,P11+,45.4,P4+ Requires an SE,P8,101.34%
+284,65.14,P4+ Requires an SE,P11+,45.6,P4+ Requires an SE,P8,101.79%
+285,65.43,P4+ Requires an SE,P11+,45.8,P4+ Requires an SE,P8,102.23%
+286,65.71,P4+ Requires an SE,P11+,46,P4+ Requires an SE,P8,102.68%
+287,66,P4+ Requires an SE,P11+,46.2,P4+ Requires an SE,P8,103.13%
+288,66.29,P4+ Requires an SE,P11+,46.4,P4+ Requires an SE,P8,103.57%
+289,66.57,P4+ Requires an SE,P11+,46.6,P4+ Requires an SE,P8,104.02%
+290,66.86,P4+ Requires an SE,P11+,46.8,P4+ Requires an SE,P8,104.46%
+291,67.14,P4+ Requires an SE,P11+,47,P4+ Requires an SE,P8,104.91%
+292,67.43,P4+ Requires an SE,P11+,47.2,P4+ Requires an SE,P8,105.36%
+293,67.71,P4+ Requires an SE,P11+,47.4,P4+ Requires an SE,P8,105.80%
+294,68,P4+ Requires an SE,P11+,47.6,P4+ Requires an SE,P8,106.25%
+295,68.29,P4+ Requires an SE,P11+,47.8,P4+ Requires an SE,P8,106.70%
+296,68.57,P4+ Requires an SE,P11+,48,P4+ Requires an SE,P8,107.14%
+297,68.86,P4+ Requires an SE,P11+,48.2,P4+ Requires an SE,P9,107.59%
+298,69.14,P4+ Requires an SE,P11+,48.4,P4+ Requires an SE,P9,108.04%
+299,69.43,P4+ Requires an SE,P11+,48.6,P4+ Requires an SE,P9,108.48%
+300,69.71,P4+ Requires an SE,P11+,48.8,P4+ Requires an SE,P9,108.93%
+301,70,P4+ Requires an SE,P11+,49,P4+ Requires an SE,P9,109.38%
+302,70.29,P4+ Requires an SE,P11+,49.2,P4+ Requires an SE,P9,109.82%
+303,70.57,P4+ Requires an SE,P11+,49.4,P4+ Requires an SE,P9,110.27%
+304,70.86,P4+ Requires an SE,P11+,49.6,P4+ Requires an SE,P9,110.71%
+305,71.14,P4+ Requires an SE,P11+,49.8,P4+ Requires an SE,P9,111.16%
+306,71.43,P4+ Requires an SE,P11+,50,P4+ Requires an SE,P9,111.61%
+307,71.71,P4+ Requires an SE,P11+,50.2,P4+ Requires an SE,P9,112.05%
+308,72,P4+ Requires an SE,P11+,50.4,P4+ Requires an SE,P9,112.50%
+309,72.29,P4+ Requires an SE,P11+,50.6,P4+ Requires an SE,P9,112.95%
+310,72.57,P4+ Requires an SE,P11+,50.8,P4+ Requires an SE,P9,113.39%
+311,72.86,P4+ Requires an SE,P11+,51,P4+ Requires an SE,P9,113.84%
+312,73.14,P4+ Requires an SE,P11+,51.2,P4+ Requires an SE,P9,114.29%
+313,73.43,P4+ Requires an SE,P11+,51.4,P4+ Requires an SE,P9,114.73%
+314,73.71,P4+ Requires an SE,P11+,51.6,P4+ Requires an SE,P9,115.18%
+315,74,P4+ Requires an SE,P11+,51.8,P4+ Requires an SE,P9,115.63%
+316,74.29,P4+ Requires an SE,P11+,52,P4+ Requires an SE,P9,116.07%
+317,74.57,P4+ Requires an SE,P11+,52.2,P4+ Requires an SE,P9,116.52%
+318,74.86,P4+ Requires an SE,P11+,52.4,P4+ Requires an SE,P9,116.96%
+319,75.14,P4+ Requires an SE,P11+,52.6,P4+ Requires an SE,P9,117.41%
+320,75.43,P4+ Requires an SE,P11+,52.8,P4+ Requires an SE,P9,117.86%
+321,75.71,P4+ Requires an SE,P11+,53,P4+ Requires an SE,P9,118.30%
+322,76,P4+ Requires an SE,P11+,53.2,P4+ Requires an SE,P9,118.75%
+323,76.29,P4+ Requires an SE,P11+,53.4,P4+ Requires an SE,P9,119.20%
+324,76.57,P4+ Requires an SE,P11+,53.6,P4+ Requires an SE,P9,119.64%
+325,76.86,P4+ Requires an SE,P11+,53.8,P4+ Requires an SE,P9,120.09%
+326,77.14,P4+ Requires an SE,P11+,54,P4+ Requires an SE,P9,120.54%
+327,77.43,P4+ Requires an SE,P11+,54.2,P4+ Requires an SE,P9,120.98%
+328,77.71,P4+ Requires an SE,P11+,54.4,P4+ Requires an SE,P9,121.43%
+329,78,P4+ Requires an SE,P11+,54.6,P4+ Requires an SE,P9,121.88%
+330,78.29,P4+ Requires an SE,P11+,54.8,P4+ Requires an SE,P9,122.32%
+331,78.57,P4+ Requires an SE,P11+,55,P4+ Requires an SE,P9,122.77%
+332,78.86,P4+ Requires an SE,P11+,55.2,P4+ Requires an SE,P9,123.21%
+333,79.14,P4+ Requires an SE,P11+,55.4,P4+ Requires an SE,P9,123.66%
+334,79.43,P4+ Requires an SE,P11+,55.6,P4+ Requires an SE,P9,124.11%
+335,79.71,P4+ Requires an SE,P11+,55.8,P4+ Requires an SE,P9,124.55%
+336,80,P4+ Requires an SE,P11+,56,P4+ Requires an SE,P9,125.00%
+337,80.29,P4+ Requires an SE,P11+,56.2,P4+ Requires an SE,P10,125.45%
+338,80.57,P4+ Requires an SE,P11+,56.4,P4+ Requires an SE,P10,125.89%
+339,80.86,P4+ Requires an SE,P11+,56.6,P4+ Requires an SE,P10,126.34%
+340,81.14,P4+ Requires an SE,P11+,56.8,P4+ Requires an SE,P10,126.79%
+341,81.43,P4+ Requires an SE,P11+,57,P4+ Requires an SE,P10,127.23%
+342,81.71,P4+ Requires an SE,P11+,57.2,P4+ Requires an SE,P10,127.68%
+343,82,P4+ Requires an SE,P11+,57.4,P4+ Requires an SE,P10,128.13%
+344,82.29,P4+ Requires an SE,P11+,57.6,P4+ Requires an SE,P10,128.57%
+345,82.57,P4+ Requires an SE,P11+,57.8,P4+ Requires an SE,P10,129.02%
+346,82.86,P4+ Requires an SE,P11+,58,P4+ Requires an SE,P10,129.46%
+347,83.14,P4+ Requires an SE,P11+,58.2,P4+ Requires an SE,P10,129.91%
+348,83.43,P4+ Requires an SE,P11+,58.4,P4+ Requires an SE,P10,130.36%
+349,83.71,P4+ Requires an SE,P11+,58.6,P4+ Requires an SE,P10,130.80%
+350,84,P4+ Requires an SE,P11+,58.8,P4+ Requires an SE,P10,131.25%
+351,84.29,P4+ Requires an SE,P11+,59,P4+ Requires an SE,P10,131.70%
+352,84.57,P4+ Requires an SE,P11+,59.2,P4+ Requires an SE,P10,132.14%
+353,84.86,P4+ Requires an SE,P11+,59.4,P4+ Requires an SE,P10,132.59%
+354,85.14,P4+ Requires an SE,P11+,59.6,P4+ Requires an SE,P10,133.04%
+355,85.43,P4+ Requires an SE,P11+,59.8,P4+ Requires an SE,P10,133.48%
+356,85.71,P4+ Requires an SE,P11+,60,P4+ Requires an SE,P10,133.93%
+357,86,P4+ Requires an SE,P11+,60.2,P4+ Requires an SE,P10,134.38%
+358,86.29,P4+ Requires an SE,P11+,60.4,P4+ Requires an SE,P10,134.82%
+359,86.57,P4+ Requires an SE,P11+,60.6,P4+ Requires an SE,P10,135.27%
+360,86.86,P4+ Requires an SE,P11+,60.8,P4+ Requires an SE,P10,135.71%
+361,87.14,P4+ Requires an SE,P11+,61,P4+ Requires an SE,P10,136.16%
+362,87.43,P4+ Requires an SE,P11+,61.2,P4+ Requires an SE,P10,136.61%
+363,87.71,P4+ Requires an SE,P11+,61.4,P4+ Requires an SE,P10,137.05%
+364,88,P4+ Requires an SE,P11+,61.6,P4+ Requires an SE,P10,137.50%
+365,88.29,P4+ Requires an SE,P11+,61.8,P4+ Requires an SE,P10,137.95%
+366,88.57,P4+ Requires an SE,P11+,62,P4+ Requires an SE,P10,138.39%
+367,88.86,P4+ Requires an SE,P11+,62.2,P4+ Requires an SE,P10,138.84%
+368,89.14,P4+ Requires an SE,P11+,62.4,P4+ Requires an SE,P10,139.29%
+369,89.43,P4+ Requires an SE,P11+,62.6,P4+ Requires an SE,P10,139.73%
+370,89.71,P4+ Requires an SE,P11+,62.8,P4+ Requires an SE,P10,140.18%
+371,90,P4+ Requires an SE,P11+,63,P4+ Requires an SE,P10,140.63%
+372,90.29,P4+ Requires an SE,P11+,63.2,P4+ Requires an SE,P10,141.07%
+373,90.57,P4+ Requires an SE,P11+,63.4,P4+ Requires an SE,P10,141.52%
+374,90.86,P4+ Requires an SE,P11+,63.6,P4+ Requires an SE,P10,141.96%
+375,91.14,P4+ Requires an SE,P11+,63.8,P4+ Requires an SE,P10,142.41%
+376,91.43,P4+ Requires an SE,P11+,64,P4+ Requires an SE,P10,142.86%
+377,91.71,P4+ Requires an SE,P11+,64.2,P4+ Requires an SE,P11+,143.30%
+378,92,P4+ Requires an SE,P11+,64.4,P4+ Requires an SE,P11+,143.75%
+379,92.29,P4+ Requires an SE,P11+,64.6,P4+ Requires an SE,P11+,144.20%
+380,92.57,P4+ Requires an SE,P11+,64.8,P4+ Requires an SE,P11+,144.64%
+381,92.86,P4+ Requires an SE,P11+,65,P4+ Requires an SE,P11+,145.09%
+382,93.14,P4+ Requires an SE,P11+,65.2,P4+ Requires an SE,P11+,145.54%
+383,93.43,P4+ Requires an SE,P11+,65.4,P4+ Requires an SE,P11+,145.98%
+384,93.71,P4+ Requires an SE,P11+,65.6,P4+ Requires an SE,P11+,146.43%
+385,94,P4+ Requires an SE,P11+,65.8,P4+ Requires an SE,P11+,146.88%
+386,94.29,P4+ Requires an SE,P11+,66,P4+ Requires an SE,P11+,147.32%
+387,94.57,P4+ Requires an SE,P11+,66.2,P4+ Requires an SE,P11+,147.77%
+388,94.86,P4+ Requires an SE,P11+,66.4,P4+ Requires an SE,P11+,148.21%
+389,95.14,P4+ Requires an SE,P11+,66.6,P4+ Requires an SE,P11+,148.66%
+390,95.43,P4+ Requires an SE,P11+,66.8,P4+ Requires an SE,P11+,149.11%
+391,95.71,P4+ Requires an SE,P11+,67,P4+ Requires an SE,P11+,149.55%
+392,96,P4+ Requires an SE,P11+,67.2,P4+ Requires an SE,P11+,150.00%
+393,96.29,P4+ Requires an SE,P11+,67.4,P4+ Requires an SE,P11+,150.45%
+394,96.57,P4+ Requires an SE,P11+,67.6,P4+ Requires an SE,P11+,150.89%
+395,96.86,P4+ Requires an SE,P11+,67.8,P4+ Requires an SE,P11+,151.34%
+396,97.14,P4+ Requires an SE,P11+,68,P4+ Requires an SE,P11+,151.79%
+397,97.43,P4+ Requires an SE,P11+,68.2,P4+ Requires an SE,P11+,152.23%
+398,97.71,P4+ Requires an SE,P11+,68.4,P4+ Requires an SE,P11+,152.68%
+399,98,P4+ Requires an SE,P11+,68.6,P4+ Requires an SE,P11+,153.13%
+400,98.29,P4+ Requires an SE,P11+,68.8,P4+ Requires an SE,P11+,153.57%
+401,98.57,P4+ Requires an SE,P11+,69,P4+ Requires an SE,P11+,154.02%
+402,98.86,P4+ Requires an SE,P11+,69.2,P4+ Requires an SE,P11+,154.46%
+403,99.14,P4+ Requires an SE,P11+,69.4,P4+ Requires an SE,P11+,154.91%
+404,99.43,P4+ Requires an SE,P11+,69.6,P4+ Requires an SE,P11+,155.36%
+405,99.71,P4+ Requires an SE,P11+,69.8,P4+ Requires an SE,P11+,155.80%
+406,100,P4+ Requires an SE,P11+,70,P4+ Requires an SE,P11+,156.25%
+407,100.29,P4+ Requires an SE,P11+,70.2,P4+ Requires an SE,P11+,156.70%
+408,100.57,P4+ Requires an SE,P11+,70.4,P4+ Requires an SE,P11+,157.14%
+409,100.86,P4+ Requires an SE,P11+,70.6,P4+ Requires an SE,P11+,157.59%
+410,101.14,P4+ Requires an SE,P11+,70.8,P4+ Requires an SE,P11+,158.04%
+411,101.43,P4+ Requires an SE,P11+,71,P4+ Requires an SE,P11+,158.48%
+412,101.71,P4+ Requires an SE,P11+,71.2,P4+ Requires an SE,P11+,158.93%
+413,102,P4+ Requires an SE,P11+,71.4,P4+ Requires an SE,P11+,159.38%
+414,102.29,P4+ Requires an SE,P11+,71.6,P4+ Requires an SE,P11+,159.82%
+415,102.57,P4+ Requires an SE,P11+,71.8,P4+ Requires an SE,P11+,160.27%
+416,102.86,P4+ Requires an SE,P11+,72,P4+ Requires an SE,P11+,160.71%
+417,103.14,P4+ Requires an SE,P11+,72.2,P4+ Requires an SE,P11+,161.16%
+418,103.43,P4+ Requires an SE,P11+,72.4,P4+ Requires an SE,P11+,161.61%
+419,103.71,P4+ Requires an SE,P11+,72.6,P4+ Requires an SE,P11+,162.05%
+420,104,P4+ Requires an SE,P11+,72.8,P4+ Requires an SE,P11+,162.50%
+421,104.29,P4+ Requires an SE,P11+,73,P4+ Requires an SE,P11+,162.95%
+422,104.57,P4+ Requires an SE,P11+,73.2,P4+ Requires an SE,P11+,163.39%
+423,104.86,P4+ Requires an SE,P11+,73.4,P4+ Requires an SE,P11+,163.84%
+424,105.14,P4+ Requires an SE,P11+,73.6,P4+ Requires an SE,P11+,164.29%
+425,105.43,P4+ Requires an SE,P11+,73.8,P4+ Requires an SE,P11+,164.73%
+426,105.71,P4+ Requires an SE,P11+,74,P4+ Requires an SE,P11+,165.18%
+427,106,P4+ Requires an SE,P11+,74.2,P4+ Requires an SE,P11+,165.63%
+428,106.29,P4+ Requires an SE,P11+,74.4,P4+ Requires an SE,P11+,166.07%
+429,106.57,P4+ Requires an SE,P11+,74.6,P4+ Requires an SE,P11+,166.52%
+430,106.86,P4+ Requires an SE,P11+,74.8,P4+ Requires an SE,P11+,166.96%
+431,107.14,P4+ Requires an SE,P11+,75,P4+ Requires an SE,P11+,167.41%
+432,107.43,P4+ Requires an SE,P11+,75.2,P4+ Requires an SE,P11+,167.86%
+433,107.71,P4+ Requires an SE,P11+,75.4,P4+ Requires an SE,P11+,168.30%
+434,108,P4+ Requires an SE,P11+,75.6,P4+ Requires an SE,P11+,168.75%
+435,108.29,P4+ Requires an SE,P11+,75.8,P4+ Requires an SE,P11+,169.20%
+436,108.57,P4+ Requires an SE,P11+,76,P4+ Requires an SE,P11+,169.64%
+437,108.86,P4+ Requires an SE,P11+,76.2,P4+ Requires an SE,P11+,170.09%
+438,109.14,P4+ Requires an SE,P11+,76.4,P4+ Requires an SE,P11+,170.54%
+439,109.43,P4+ Requires an SE,P11+,76.6,P4+ Requires an SE,P11+,170.98%
+440,109.71,P4+ Requires an SE,P11+,76.8,P4+ Requires an SE,P11+,171.43%
+441,110,P4+ Requires an SE,P11+,77,P4+ Requires an SE,P11+,171.88%
+442,110.29,P4+ Requires an SE,P11+,77.2,P4+ Requires an SE,P11+,172.32%
+443,110.57,P4+ Requires an SE,P11+,77.4,P4+ Requires an SE,P11+,172.77%
+444,110.86,P4+ Requires an SE,P11+,77.6,P4+ Requires an SE,P11+,173.21%
+445,111.14,P4+ Requires an SE,P11+,77.8,P4+ Requires an SE,P11+,173.66%
+446,111.43,P4+ Requires an SE,P11+,78,P4+ Requires an SE,P11+,174.11%
+447,111.71,P4+ Requires an SE,P11+,78.2,P4+ Requires an SE,P11+,174.55%
+448,112,P4+ Requires an SE,P11+,78.4,P4+ Requires an SE,P11+,175.00%
+449,112.29,P4+ Requires an SE,P11+,78.6,P4+ Requires an SE,P11+,175.45%
+450,112.57,P4+ Requires an SE,P11+,78.8,P4+ Requires an SE,P11+,175.89%
+451,112.86,P4+ Requires an SE,P11+,79,P4+ Requires an SE,P11+,176.34%
+452,113.14,P4+ Requires an SE,P11+,79.2,P4+ Requires an SE,P11+,176.79%
+453,113.43,P4+ Requires an SE,P11+,79.4,P4+ Requires an SE,P11+,177.23%
+454,113.71,P4+ Requires an SE,P11+,79.6,P4+ Requires an SE,P11+,177.68%
+455,114,P4+ Requires an SE,P11+,79.8,P4+ Requires an SE,P11+,178.13%
+456,114.29,P4+ Requires an SE,P11+,80,P4+ Requires an SE,P11+,178.57%
+457,114.57,P4+ Requires an SE,P11+,80.2,P4+ Requires an SE,P11+,179.02%
+458,114.86,P4+ Requires an SE,P11+,80.4,P4+ Requires an SE,P11+,179.46%
+459,115.14,P4+ Requires an SE,P11+,80.6,P4+ Requires an SE,P11+,179.91%
+460,115.43,P4+ Requires an SE,P11+,80.8,P4+ Requires an SE,P11+,180.36%
+461,115.71,P4+ Requires an SE,P11+,81,P4+ Requires an SE,P11+,180.80%
+462,116,P4+ Requires an SE,P11+,81.2,P4+ Requires an SE,P11+,181.25%
+463,116.29,P4+ Requires an SE,P11+,81.4,P4+ Requires an SE,P11+,181.70%
+464,116.57,P4+ Requires an SE,P11+,81.6,P4+ Requires an SE,P11+,182.14%
+465,116.86,P4+ Requires an SE,P11+,81.8,P4+ Requires an SE,P11+,182.59%
+466,117.14,P4+ Requires an SE,P11+,82,P4+ Requires an SE,P11+,183.04%
+467,117.43,P4+ Requires an SE,P11+,82.2,P4+ Requires an SE,P11+,183.48%
+468,117.71,P4+ Requires an SE,P11+,82.4,P4+ Requires an SE,P11+,183.93%
+469,118,P4+ Requires an SE,P11+,82.6,P4+ Requires an SE,P11+,184.38%
+470,118.29,P4+ Requires an SE,P11+,82.8,P4+ Requires an SE,P11+,184.82%
+471,118.57,P4+ Requires an SE,P11+,83,P4+ Requires an SE,P11+,185.27%
+472,118.86,P4+ Requires an SE,P11+,83.2,P4+ Requires an SE,P11+,185.71%
+473,119.14,P4+ Requires an SE,P11+,83.4,P4+ Requires an SE,P11+,186.16%
+474,119.43,P4+ Requires an SE,P11+,83.6,P4+ Requires an SE,P11+,186.61%
+475,119.71,P4+ Requires an SE,P11+,83.8,P4+ Requires an SE,P11+,187.05%
+476,120,P4+ Requires an SE,P11+,84,P4+ Requires an SE,P11+,187.50%
+477,120.29,P4+ Requires an SE,P11+,84.2,P4+ Requires an SE,P11+,187.95%
+478,120.57,P4+ Requires an SE,P11+,84.4,P4+ Requires an SE,P11+,188.39%
+479,120.86,P4+ Requires an SE,P11+,84.6,P4+ Requires an SE,P11+,188.84%
+480,121.14,P4+ Requires an SE,P11+,84.8,P4+ Requires an SE,P11+,189.29%
+481,121.43,P4+ Requires an SE,P11+,85,P4+ Requires an SE,P11+,189.73%
+482,121.71,P4+ Requires an SE,P11+,85.2,P4+ Requires an SE,P11+,190.18%
+483,122,P4+ Requires an SE,P11+,85.4,P4+ Requires an SE,P11+,190.63%
+484,122.29,P4+ Requires an SE,P11+,85.6,P4+ Requires an SE,P11+,191.07%
+485,122.57,P4+ Requires an SE,P11+,85.8,P4+ Requires an SE,P11+,191.52%
+486,122.86,P4+ Requires an SE,P11+,86,P4+ Requires an SE,P11+,191.96%
+487,123.14,P4+ Requires an SE,P11+,86.2,P4+ Requires an SE,P11+,192.41%
+488,123.43,P4+ Requires an SE,P11+,86.4,P4+ Requires an SE,P11+,192.86%
+489,123.71,P4+ Requires an SE,P11+,86.6,P4+ Requires an SE,P11+,193.30%
+490,124,P4+ Requires an SE,P11+,86.8,P4+ Requires an SE,P11+,193.75%
+491,124.29,P4+ Requires an SE,P11+,87,P4+ Requires an SE,P11+,194.20%
+492,124.57,P4+ Requires an SE,P11+,87.2,P4+ Requires an SE,P11+,194.64%
+493,124.86,P4+ Requires an SE,P11+,87.4,P4+ Requires an SE,P11+,195.09%
+494,125.14,P4+ Requires an SE,P11+,87.6,P4+ Requires an SE,P11+,195.54%
+495,125.43,P4+ Requires an SE,P11+,87.8,P4+ Requires an SE,P11+,195.98%
+496,125.71,P4+ Requires an SE,P11+,88,P4+ Requires an SE,P11+,196.43%
+497,126,P4+ Requires an SE,P11+,88.2,P4+ Requires an SE,P11+,196.88%
+498,126.29,P4+ Requires an SE,P11+,88.4,P4+ Requires an SE,P11+,197.32%
+499,126.57,P4+ Requires an SE,P11+,88.6,P4+ Requires an SE,P11+,197.77%
+500,126.86,P4+ Requires an SE,P11+,88.8,P4+ Requires an SE,P11+,198.21%
+501,127.14,P4+ Requires an SE,P11+,89,P4+ Requires an SE,P11+,198.66%
+502,127.43,P4+ Requires an SE,P11+,89.2,P4+ Requires an SE,P11+,199.11%
+503,127.71,P4+ Requires an SE,P11+,89.4,P4+ Requires an SE,P11+,199.55%
+504,128,P4+ Requires an SE,P11+,89.6,P4+ Requires an SE,P11+,200.00%
+505,128.29,P4+ Requires an SE,P11+,89.8,P4+ Requires an SE,P11+,200.45%
+506,128.57,P4+ Requires an SE,P11+,90,P4+ Requires an SE,P11+,200.89%
+507,128.86,P4+ Requires an SE,P11+,90.2,P4+ Requires an SE,P11+,201.34%
+508,129.14,P4+ Requires an SE,P11+,90.4,P4+ Requires an SE,P11+,201.79%
+509,129.43,P4+ Requires an SE,P11+,90.6,P4+ Requires an SE,P11+,202.23%
+510,129.71,P4+ Requires an SE,P11+,90.8,P4+ Requires an SE,P11+,202.68%
+511,130,P4+ Requires an SE,P11+,91,P4+ Requires an SE,P11+,203.13%
+512,130.29,P4+ Requires an SE,P11+,91.2,P4+ Requires an SE,P11+,203.57%
+513,130.57,P4+ Requires an SE,P11+,91.4,P4+ Requires an SE,P11+,204.02%
+514,130.86,P4+ Requires an SE,P11+,91.6,P4+ Requires an SE,P11+,204.46%
+515,131.14,P4+ Requires an SE,P11+,91.8,P4+ Requires an SE,P11+,204.91%
+516,131.43,P4+ Requires an SE,P11+,92,P4+ Requires an SE,P11+,205.36%
+517,131.71,P4+ Requires an SE,P11+,92.2,P4+ Requires an SE,P11+,205.80%
+518,132,P4+ Requires an SE,P11+,92.4,P4+ Requires an SE,P11+,206.25%
+519,132.29,P4+ Requires an SE,P11+,92.6,P4+ Requires an SE,P11+,206.70%
+520,132.57,P4+ Requires an SE,P11+,92.8,P4+ Requires an SE,P11+,207.14%
+521,132.86,P4+ Requires an SE,P11+,93,P4+ Requires an SE,P11+,207.59%
+522,133.14,P4+ Requires an SE,P11+,93.2,P4+ Requires an SE,P11+,208.04%
+523,133.43,P4+ Requires an SE,P11+,93.4,P4+ Requires an SE,P11+,208.48%
+524,133.71,P4+ Requires an SE,P11+,93.6,P4+ Requires an SE,P11+,208.93%
+525,134,P4+ Requires an SE,P11+,93.8,P4+ Requires an SE,P11+,209.38%
+526,134.29,P4+ Requires an SE,P11+,94,P4+ Requires an SE,P11+,209.82%
+527,134.57,P4+ Requires an SE,P11+,94.2,P4+ Requires an SE,P11+,210.27%
+528,134.86,P4+ Requires an SE,P11+,94.4,P4+ Requires an SE,P11+,210.71%
+529,135.14,P4+ Requires an SE,P11+,94.6,P4+ Requires an SE,P11+,211.16%
+530,135.43,P4+ Requires an SE,P11+,94.8,P4+ Requires an SE,P11+,211.61%
+531,135.71,P4+ Requires an SE,P11+,95,P4+ Requires an SE,P11+,212.05%
+532,136,P4+ Requires an SE,P11+,95.2,P4+ Requires an SE,P11+,212.50%
+533,136.29,P4+ Requires an SE,P11+,95.4,P4+ Requires an SE,P11+,212.95%
+534,136.57,P4+ Requires an SE,P11+,95.6,P4+ Requires an SE,P11+,213.39%
+535,136.86,P4+ Requires an SE,P11+,95.8,P4+ Requires an SE,P11+,213.84%
+536,137.14,P4+ Requires an SE,P11+,96,P4+ Requires an SE,P11+,214.29%
+537,137.43,P4+ Requires an SE,P11+,96.2,P4+ Requires an SE,P11+,214.73%
+538,137.71,P4+ Requires an SE,P11+,96.4,P4+ Requires an SE,P11+,215.18%
+539,138,P4+ Requires an SE,P11+,96.6,P4+ Requires an SE,P11+,215.63%
+540,138.29,P4+ Requires an SE,P11+,96.8,P4+ Requires an SE,P11+,216.07%
+541,138.57,P4+ Requires an SE,P11+,97,P4+ Requires an SE,P11+,216.52%
+542,138.86,P4+ Requires an SE,P11+,97.2,P4+ Requires an SE,P11+,216.96%
+543,139.14,P4+ Requires an SE,P11+,97.4,P4+ Requires an SE,P11+,217.41%
+544,139.43,P4+ Requires an SE,P11+,97.6,P4+ Requires an SE,P11+,217.86%
+545,139.71,P4+ Requires an SE,P11+,97.8,P4+ Requires an SE,P11+,218.30%
+546,140,P4+ Requires an SE,P11+,98,P4+ Requires an SE,P11+,218.75%
+547,140.29,P4+ Requires an SE,P11+,98.2,P4+ Requires an SE,P11+,219.20%
+548,140.57,P4+ Requires an SE,P11+,98.4,P4+ Requires an SE,P11+,219.64%
+549,140.86,P4+ Requires an SE,P11+,98.6,P4+ Requires an SE,P11+,220.09%
+550,141.14,P4+ Requires an SE,P11+,98.8,P4+ Requires an SE,P11+,220.54%
+551,141.43,P4+ Requires an SE,P11+,99,P4+ Requires an SE,P11+,220.98%
+552,141.71,P4+ Requires an SE,P11+,99.2,P4+ Requires an SE,P11+,221.43%
+553,142,P4+ Requires an SE,P11+,99.4,P4+ Requires an SE,P11+,221.88%
+554,142.29,P4+ Requires an SE,P11+,99.6,P4+ Requires an SE,P11+,222.32%
+555,142.57,P4+ Requires an SE,P11+,99.8,P4+ Requires an SE,P11+,222.77%
+556,142.86,P4+ Requires an SE,P11+,100,P4+ Requires an SE,P11+,223.21%
+557,143.14,P4+ Requires an SE,P11+,100.2,P4+ Requires an SE,P11+,223.66%
+558,143.43,P4+ Requires an SE,P11+,100.4,P4+ Requires an SE,P11+,224.11%
+559,143.71,P4+ Requires an SE,P11+,100.6,P4+ Requires an SE,P11+,224.55%
+560,144,P4+ Requires an SE,P11+,100.8,P4+ Requires an SE,P11+,225.00%
+561,144.29,P4+ Requires an SE,P11+,101,P4+ Requires an SE,P11+,225.45%
+562,144.57,P4+ Requires an SE,P11+,101.2,P4+ Requires an SE,P11+,225.89%
+563,144.86,P4+ Requires an SE,P11+,101.4,P4+ Requires an SE,P11+,226.34%
+564,145.14,P4+ Requires an SE,P11+,101.6,P4+ Requires an SE,P11+,226.79%
+565,145.43,P4+ Requires an SE,P11+,101.8,P4+ Requires an SE,P11+,227.23%
+566,145.71,P4+ Requires an SE,P11+,102,P4+ Requires an SE,P11+,227.68%
+567,146,P4+ Requires an SE,P11+,102.2,P4+ Requires an SE,P11+,228.13%
+568,146.29,P4+ Requires an SE,P11+,102.4,P4+ Requires an SE,P11+,228.57%
+569,146.57,P4+ Requires an SE,P11+,102.6,P4+ Requires an SE,P11+,229.02%
+570,146.86,P4+ Requires an SE,P11+,102.8,P4+ Requires an SE,P11+,229.46%
+571,147.14,P4+ Requires an SE,P11+,103,P4+ Requires an SE,P11+,229.91%
+572,147.43,P4+ Requires an SE,P11+,103.2,P4+ Requires an SE,P11+,230.36%
+573,147.71,P4+ Requires an SE,P11+,103.4,P4+ Requires an SE,P11+,230.80%
+574,148,P4+ Requires an SE,P11+,103.6,P4+ Requires an SE,P11+,231.25%
+575,148.29,P4+ Requires an SE,P11+,103.8,P4+ Requires an SE,P11+,231.70%
+576,148.57,P4+ Requires an SE,P11+,104,P4+ Requires an SE,P11+,232.14%
+577,148.86,P4+ Requires an SE,P11+,104.2,P4+ Requires an SE,P11+,232.59%
+578,149.14,P4+ Requires an SE,P11+,104.4,P4+ Requires an SE,P11+,233.04%
+579,149.43,P4+ Requires an SE,P11+,104.6,P4+ Requires an SE,P11+,233.48%
+580,149.71,P4+ Requires an SE,P11+,104.8,P4+ Requires an SE,P11+,233.93%
+581,150,P4+ Requires an SE,P11+,105,P4+ Requires an SE,P11+,234.38%
+582,150.29,P4+ Requires an SE,P11+,105.2,P4+ Requires an SE,P11+,234.82%
+583,150.57,P4+ Requires an SE,P11+,105.4,P4+ Requires an SE,P11+,235.27%
+584,150.86,P4+ Requires an SE,P11+,105.6,P4+ Requires an SE,P11+,235.71%
+585,151.14,P4+ Requires an SE,P11+,105.8,P4+ Requires an SE,P11+,236.16%
+586,151.43,P4+ Requires an SE,P11+,106,P4+ Requires an SE,P11+,236.61%
+587,151.71,P4+ Requires an SE,P11+,106.2,P4+ Requires an SE,P11+,237.05%
+588,152,P4+ Requires an SE,P11+,106.4,P4+ Requires an SE,P11+,237.50%
+589,152.29,P4+ Requires an SE,P11+,106.6,P4+ Requires an SE,P11+,237.95%
+590,152.57,P4+ Requires an SE,P11+,106.8,P4+ Requires an SE,P11+,238.39%
+591,152.86,P4+ Requires an SE,P11+,107,P4+ Requires an SE,P11+,238.84%
+592,153.14,P4+ Requires an SE,P11+,107.2,P4+ Requires an SE,P11+,239.29%
+593,153.43,P4+ Requires an SE,P11+,107.4,P4+ Requires an SE,P11+,239.73%
+594,153.71,P4+ Requires an SE,P11+,107.6,P4+ Requires an SE,P11+,240.18%
+595,154,P4+ Requires an SE,P11+,107.8,P4+ Requires an SE,P11+,240.63%
+596,154.29,P4+ Requires an SE,P11+,108,P4+ Requires an SE,P11+,241.07%
+597,154.57,P4+ Requires an SE,P11+,108.2,P4+ Requires an SE,P11+,241.52%
+598,154.86,P4+ Requires an SE,P11+,108.4,P4+ Requires an SE,P11+,241.96%
+599,155.14,P4+ Requires an SE,P11+,108.6,P4+ Requires an SE,P11+,242.41%
+600,155.43,P4+ Requires an SE,P11+,108.8,P4+ Requires an SE,P11+,242.86%
+601,155.71,P4+ Requires an SE,P11+,109,P4+ Requires an SE,P11+,243.30%
+602,156,P4+ Requires an SE,P11+,109.2,P4+ Requires an SE,P11+,243.75%
+603,156.29,P4+ Requires an SE,P11+,109.4,P4+ Requires an SE,P11+,244.20%
+604,156.57,P4+ Requires an SE,P11+,109.6,P4+ Requires an SE,P11+,244.64%
+605,156.86,P4+ Requires an SE,P11+,109.8,P4+ Requires an SE,P11+,245.09%
+606,157.14,P4+ Requires an SE,P11+,110,P4+ Requires an SE,P11+,245.54%
+607,157.43,P4+ Requires an SE,P11+,110.2,P4+ Requires an SE,P11+,245.98%
+608,157.71,P4+ Requires an SE,P11+,110.4,P4+ Requires an SE,P11+,246.43%
+609,158,P4+ Requires an SE,P11+,110.6,P4+ Requires an SE,P11+,246.87%
+610,158.29,P4+ Requires an SE,P11+,110.8,P4+ Requires an SE,P11+,247.32%
+611,158.57,P4+ Requires an SE,P11+,111,P4+ Requires an SE,P11+,247.77%
+612,158.86,P4+ Requires an SE,P11+,111.2,P4+ Requires an SE,P11+,248.21%
+613,159.14,P4+ Requires an SE,P11+,111.4,P4+ Requires an SE,P11+,248.66%
+614,159.43,P4+ Requires an SE,P11+,111.6,P4+ Requires an SE,P11+,249.11%
+615,159.71,P4+ Requires an SE,P11+,111.8,P4+ Requires an SE,P11+,249.55%
+616,160,P4+ Requires an SE,P11+,112,P4+ Requires an SE,P11+,250.00%
+617,160.29,P4+ Requires an SE,P11+,112.2,P4+ Requires an SE,P11+,250.45%
+618,160.57,P4+ Requires an SE,P11+,112.4,P4+ Requires an SE,P11+,250.89%
+619,160.86,P4+ Requires an SE,P11+,112.6,P4+ Requires an SE,P11+,251.34%
+620,161.14,P4+ Requires an SE,P11+,112.8,P4+ Requires an SE,P11+,251.79%
+621,161.43,P4+ Requires an SE,P11+,113,P4+ Requires an SE,P11+,252.23%
+622,161.71,P4+ Requires an SE,P11+,113.2,P4+ Requires an SE,P11+,252.68%
+623,162,P4+ Requires an SE,P11+,113.4,P4+ Requires an SE,P11+,253.12%
+624,162.29,P4+ Requires an SE,P11+,113.6,P4+ Requires an SE,P11+,253.57%
+625,162.57,P4+ Requires an SE,P11+,113.8,P4+ Requires an SE,P11+,254.02%
+626,162.86,P4+ Requires an SE,P11+,114,P4+ Requires an SE,P11+,254.46%
+627,163.14,P4+ Requires an SE,P11+,114.2,P4+ Requires an SE,P11+,254.91%
+628,163.43,P4+ Requires an SE,P11+,114.4,P4+ Requires an SE,P11+,255.36%
+629,163.71,P4+ Requires an SE,P11+,114.6,P4+ Requires an SE,P11+,255.80%
+630,164,P4+ Requires an SE,P11+,114.8,P4+ Requires an SE,P11+,256.25%
+631,164.29,P4+ Requires an SE,P11+,115,P4+ Requires an SE,P11+,256.70%
+632,164.57,P4+ Requires an SE,P11+,115.2,P4+ Requires an SE,P11+,257.14%
+633,164.86,P4+ Requires an SE,P11+,115.4,P4+ Requires an SE,P11+,257.59%
+634,165.14,P4+ Requires an SE,P11+,115.6,P4+ Requires an SE,P11+,258.04%
+635,165.43,P4+ Requires an SE,P11+,115.8,P4+ Requires an SE,P11+,258.48%
+636,165.71,P4+ Requires an SE,P11+,116,P4+ Requires an SE,P11+,258.93%
+637,166,P4+ Requires an SE,P11+,116.2,P4+ Requires an SE,P11+,259.37%
+638,166.29,P4+ Requires an SE,P11+,116.4,P4+ Requires an SE,P11+,259.82%
+639,166.57,P4+ Requires an SE,P11+,116.6,P4+ Requires an SE,P11+,260.27%
+640,166.86,P4+ Requires an SE,P11+,116.8,P4+ Requires an SE,P11+,260.71%
+641,167.14,P4+ Requires an SE,P11+,117,P4+ Requires an SE,P11+,261.16%
+642,167.43,P4+ Requires an SE,P11+,117.2,P4+ Requires an SE,P11+,261.61%
+643,167.71,P4+ Requires an SE,P11+,117.4,P4+ Requires an SE,P11+,262.05%
+644,168,P4+ Requires an SE,P11+,117.6,P4+ Requires an SE,P11+,262.50%
+645,168.29,P4+ Requires an SE,P11+,117.8,P4+ Requires an SE,P11+,262.95%
+646,168.57,P4+ Requires an SE,P11+,118,P4+ Requires an SE,P11+,263.39%
+647,168.86,P4+ Requires an SE,P11+,118.2,P4+ Requires an SE,P11+,263.84%
+648,169.14,P4+ Requires an SE,P11+,118.4,P4+ Requires an SE,P11+,264.29%
+649,169.43,P4+ Requires an SE,P11+,118.6,P4+ Requires an SE,P11+,264.73%
+650,169.71,P4+ Requires an SE,P11+,118.8,P4+ Requires an SE,P11+,265.18%
+651,170,P4+ Requires an SE,P11+,119,P4+ Requires an SE,P11+,265.62%
+652,170.29,P4+ Requires an SE,P11+,119.2,P4+ Requires an SE,P11+,266.07%
+653,170.57,P4+ Requires an SE,P11+,119.4,P4+ Requires an SE,P11+,266.52%
+654,170.86,P4+ Requires an SE,P11+,119.6,P4+ Requires an SE,P11+,266.96%
+655,171.14,P4+ Requires an SE,P11+,119.8,P4+ Requires an SE,P11+,267.41%
+656,171.43,P4+ Requires an SE,P11+,120,P4+ Requires an SE,P11+,267.86%
+657,171.71,P4+ Requires an SE,P11+,120.2,P4+ Requires an SE,P11+,268.30%
+658,172,P4+ Requires an SE,P11+,120.4,P4+ Requires an SE,P11+,268.75%
+659,172.29,P4+ Requires an SE,P11+,120.6,P4+ Requires an SE,P11+,269.20%
+660,172.57,P4+ Requires an SE,P11+,120.8,P4+ Requires an SE,P11+,269.64%
+661,172.86,P4+ Requires an SE,P11+,121,P4+ Requires an SE,P11+,270.09%
+662,173.14,P4+ Requires an SE,P11+,121.2,P4+ Requires an SE,P11+,270.54%
+663,173.43,P4+ Requires an SE,P11+,121.4,P4+ Requires an SE,P11+,270.98%
+664,173.71,P4+ Requires an SE,P11+,121.6,P4+ Requires an SE,P11+,271.43%
+665,174,P4+ Requires an SE,P11+,121.8,P4+ Requires an SE,P11+,271.87%
+666,174.29,P4+ Requires an SE,P11+,122,P4+ Requires an SE,P11+,272.32%
+667,174.57,P4+ Requires an SE,P11+,122.2,P4+ Requires an SE,P11+,272.77%
+668,174.86,P4+ Requires an SE,P11+,122.4,P4+ Requires an SE,P11+,273.21%
+669,175.14,P4+ Requires an SE,P11+,122.6,P4+ Requires an SE,P11+,273.66%
+670,175.43,P4+ Requires an SE,P11+,122.8,P4+ Requires an SE,P11+,274.11%
+671,175.71,P4+ Requires an SE,P11+,123,P4+ Requires an SE,P11+,274.55%
+672,176,P4+ Requires an SE,P11+,123.2,P4+ Requires an SE,P11+,275.00%
+673,176.29,P4+ Requires an SE,P11+,123.4,P4+ Requires an SE,P11+,275.45%
+674,176.57,P4+ Requires an SE,P11+,123.6,P4+ Requires an SE,P11+,275.89%
+675,176.86,P4+ Requires an SE,P11+,123.8,P4+ Requires an SE,P11+,276.34%
+676,177.14,P4+ Requires an SE,P11+,124,P4+ Requires an SE,P11+,276.79%
+677,177.43,P4+ Requires an SE,P11+,124.2,P4+ Requires an SE,P11+,277.23%
+678,177.71,P4+ Requires an SE,P11+,124.4,P4+ Requires an SE,P11+,277.68%
+679,178,P4+ Requires an SE,P11+,124.6,P4+ Requires an SE,P11+,278.12%
+680,178.29,P4+ Requires an SE,P11+,124.8,P4+ Requires an SE,P11+,278.57%
+681,178.57,P4+ Requires an SE,P11+,125,P4+ Requires an SE,P11+,279.02%
+682,178.86,P4+ Requires an SE,P11+,125.2,P4+ Requires an SE,P11+,279.46%
+683,179.14,P4+ Requires an SE,P11+,125.4,P4+ Requires an SE,P11+,279.91%
+684,179.43,P4+ Requires an SE,P11+,125.6,P4+ Requires an SE,P11+,280.36%
+685,179.71,P4+ Requires an SE,P11+,125.8,P4+ Requires an SE,P11+,280.80%
+686,180,P4+ Requires an SE,P11+,126,P4+ Requires an SE,P11+,281.25%
+687,180.29,P4+ Requires an SE,P11+,126.2,P4+ Requires an SE,P11+,281.70%
+688,180.57,P4+ Requires an SE,P11+,126.4,P4+ Requires an SE,P11+,282.14%
+689,180.86,P4+ Requires an SE,P11+,126.6,P4+ Requires an SE,P11+,282.59%
+690,181.14,P4+ Requires an SE,P11+,126.8,P4+ Requires an SE,P11+,283.04%
+691,181.43,P4+ Requires an SE,P11+,127,P4+ Requires an SE,P11+,283.48%
+692,181.71,P4+ Requires an SE,P11+,127.2,P4+ Requires an SE,P11+,283.93%
+693,182,P4+ Requires an SE,P11+,127.4,P4+ Requires an SE,P11+,284.37%
+694,182.29,P4+ Requires an SE,P11+,127.6,P4+ Requires an SE,P11+,284.82%
+695,182.57,P4+ Requires an SE,P11+,127.8,P4+ Requires an SE,P11+,285.27%
+696,182.86,P4+ Requires an SE,P11+,128,P4+ Requires an SE,P11+,285.71%
+697,183.14,P4+ Requires an SE,P11+,128.2,P4+ Requires an SE,P11+,286.16%
+698,183.43,P4+ Requires an SE,P11+,128.4,P4+ Requires an SE,P11+,286.61%
+699,183.71,P4+ Requires an SE,P11+,128.6,P4+ Requires an SE,P11+,287.05%
+700,184,P4+ Requires an SE,P11+,128.8,P4+ Requires an SE,P11+,287.50%
+701,184.29,P4+ Requires an SE,P11+,129,P4+ Requires an SE,P11+,287.95%
+702,184.57,P4+ Requires an SE,P11+,129.2,P4+ Requires an SE,P11+,288.39%
+703,184.86,P4+ Requires an SE,P11+,129.4,P4+ Requires an SE,P11+,288.84%
+704,185.14,P4+ Requires an SE,P11+,129.6,P4+ Requires an SE,P11+,289.29%
+705,185.43,P4+ Requires an SE,P11+,129.8,P4+ Requires an SE,P11+,289.73%
+706,185.71,P4+ Requires an SE,P11+,130,P4+ Requires an SE,P11+,290.18%
+707,186,P4+ Requires an SE,P11+,130.2,P4+ Requires an SE,P11+,290.62%
+708,186.29,P4+ Requires an SE,P11+,130.4,P4+ Requires an SE,P11+,291.07%
+709,186.57,P4+ Requires an SE,P11+,130.6,P4+ Requires an SE,P11+,291.52%
+710,186.86,P4+ Requires an SE,P11+,130.8,P4+ Requires an SE,P11+,291.96%
+711,187.14,P4+ Requires an SE,P11+,131,P4+ Requires an SE,P11+,292.41%
+712,187.43,P4+ Requires an SE,P11+,131.2,P4+ Requires an SE,P11+,292.86%
+713,187.71,P4+ Requires an SE,P11+,131.4,P4+ Requires an SE,P11+,293.30%
+714,188,P4+ Requires an SE,P11+,131.6,P4+ Requires an SE,P11+,293.75%
+715,188.29,P4+ Requires an SE,P11+,131.8,P4+ Requires an SE,P11+,294.20%
+716,188.57,P4+ Requires an SE,P11+,132,P4+ Requires an SE,P11+,294.64%
+717,188.86,P4+ Requires an SE,P11+,132.2,P4+ Requires an SE,P11+,295.09%
+718,189.14,P4+ Requires an SE,P11+,132.4,P4+ Requires an SE,P11+,295.54%
+719,189.43,P4+ Requires an SE,P11+,132.6,P4+ Requires an SE,P11+,295.98%
+720,189.71,P4+ Requires an SE,P11+,132.8,P4+ Requires an SE,P11+,296.43%
+721,190,P4+ Requires an SE,P11+,133,P4+ Requires an SE,P11+,296.87%
+722,190.29,P4+ Requires an SE,P11+,133.2,P4+ Requires an SE,P11+,297.32%
+723,190.57,P4+ Requires an SE,P11+,133.4,P4+ Requires an SE,P11+,297.77%
+724,190.86,P4+ Requires an SE,P11+,133.6,P4+ Requires an SE,P11+,298.21%
+725,191.14,P4+ Requires an SE,P11+,133.8,P4+ Requires an SE,P11+,298.66%
+726,191.43,P4+ Requires an SE,P11+,134,P4+ Requires an SE,P11+,299.11%
+727,191.71,P4+ Requires an SE,P11+,134.2,P4+ Requires an SE,P11+,299.55%
+728,192,P4+ Requires an SE,P11+,134.4,P4+ Requires an SE,P11+,300.00%
+729,192.29,P4+ Requires an SE,P11+,134.6,P4+ Requires an SE,P11+,300.45%
+730,192.57,P4+ Requires an SE,P11+,134.8,P4+ Requires an SE,P11+,300.89%
+731,192.86,P4+ Requires an SE,P11+,135,P4+ Requires an SE,P11+,301.34%
+732,193.14,P4+ Requires an SE,P11+,135.2,P4+ Requires an SE,P11+,301.79%
+733,193.43,P4+ Requires an SE,P11+,135.4,P4+ Requires an SE,P11+,302.23%
+734,193.71,P4+ Requires an SE,P11+,135.6,P4+ Requires an SE,P11+,302.68%
+735,194,P4+ Requires an SE,P11+,135.8,P4+ Requires an SE,P11+,303.12%
+736,194.29,P4+ Requires an SE,P11+,136,P4+ Requires an SE,P11+,303.57%
+737,194.57,P4+ Requires an SE,P11+,136.2,P4+ Requires an SE,P11+,304.02%
+738,194.86,P4+ Requires an SE,P11+,136.4,P4+ Requires an SE,P11+,304.46%
+739,195.14,P4+ Requires an SE,P11+,136.6,P4+ Requires an SE,P11+,304.91%
+740,195.43,P4+ Requires an SE,P11+,136.8,P4+ Requires an SE,P11+,305.36%
+741,195.71,P4+ Requires an SE,P11+,137,P4+ Requires an SE,P11+,305.80%
+742,196,P4+ Requires an SE,P11+,137.2,P4+ Requires an SE,P11+,306.25%
+743,196.29,P4+ Requires an SE,P11+,137.4,P4+ Requires an SE,P11+,306.70%
+744,196.57,P4+ Requires an SE,P11+,137.6,P4+ Requires an SE,P11+,307.14%
+745,196.86,P4+ Requires an SE,P11+,137.8,P4+ Requires an SE,P11+,307.59%
+746,197.14,P4+ Requires an SE,P11+,138,P4+ Requires an SE,P11+,308.04%
+747,197.43,P4+ Requires an SE,P11+,138.2,P4+ Requires an SE,P11+,308.48%
+748,197.71,P4+ Requires an SE,P11+,138.4,P4+ Requires an SE,P11+,308.93%
+749,198,P4+ Requires an SE,P11+,138.6,P4+ Requires an SE,P11+,309.37%
+750,198.29,P4+ Requires an SE,P11+,138.8,P4+ Requires an SE,P11+,309.82%
+751,198.57,P4+ Requires an SE,P11+,139,P4+ Requires an SE,P11+,310.27%
+752,198.86,P4+ Requires an SE,P11+,139.2,P4+ Requires an SE,P11+,310.71%
+753,199.14,P4+ Requires an SE,P11+,139.4,P4+ Requires an SE,P11+,311.16%
+754,199.43,P4+ Requires an SE,P11+,139.6,P4+ Requires an SE,P11+,311.61%
+755,199.71,P4+ Requires an SE,P11+,139.8,P4+ Requires an SE,P11+,312.05%
+756,200,P4+ Requires an SE,P11+,140,P4+ Requires an SE,P11+,312.50%
+757,200.29,P4+ Requires an SE,P11+,140.2,P4+ Requires an SE,P11+,312.95%
+758,200.57,P4+ Requires an SE,P11+,140.4,P4+ Requires an SE,P11+,313.39%
+759,200.86,P4+ Requires an SE,P11+,140.6,P4+ Requires an SE,P11+,313.84%
+760,201.14,P4+ Requires an SE,P11+,140.8,P4+ Requires an SE,P11+,314.29%
+761,201.43,P4+ Requires an SE,P11+,141,P4+ Requires an SE,P11+,314.73%
+762,201.71,P4+ Requires an SE,P11+,141.2,P4+ Requires an SE,P11+,315.18%
+763,202,P4+ Requires an SE,P11+,141.4,P4+ Requires an SE,P11+,315.62%
+764,202.29,P4+ Requires an SE,P11+,141.6,P4+ Requires an SE,P11+,316.07%
+765,202.57,P4+ Requires an SE,P11+,141.8,P4+ Requires an SE,P11+,316.52%
+766,202.86,P4+ Requires an SE,P11+,142,P4+ Requires an SE,P11+,316.96%
+767,203.14,P4+ Requires an SE,P11+,142.2,P4+ Requires an SE,P11+,317.41%
+768,203.43,P4+ Requires an SE,P11+,142.4,P4+ Requires an SE,P11+,317.86%
+769,203.71,P4+ Requires an SE,P11+,142.6,P4+ Requires an SE,P11+,318.30%
+770,204,P4+ Requires an SE,P11+,142.8,P4+ Requires an SE,P11+,318.75%
+771,204.29,P4+ Requires an SE,P11+,143,P4+ Requires an SE,P11+,319.20%
+772,204.57,P4+ Requires an SE,P11+,143.2,P4+ Requires an SE,P11+,319.64%
+773,204.86,P4+ Requires an SE,P11+,143.4,P4+ Requires an SE,P11+,320.09%
+774,205.14,P4+ Requires an SE,P11+,143.6,P4+ Requires an SE,P11+,320.54%
+775,205.43,P4+ Requires an SE,P11+,143.8,P4+ Requires an SE,P11+,320.98%
+776,205.71,P4+ Requires an SE,P11+,144,P4+ Requires an SE,P11+,321.43%
+777,206,P4+ Requires an SE,P11+,144.2,P4+ Requires an SE,P11+,321.87%
+778,206.29,P4+ Requires an SE,P11+,144.4,P4+ Requires an SE,P11+,322.32%
+779,206.57,P4+ Requires an SE,P11+,144.6,P4+ Requires an SE,P11+,322.77%
+780,206.86,P4+ Requires an SE,P11+,144.8,P4+ Requires an SE,P11+,323.21%
+781,207.14,P4+ Requires an SE,P11+,145,P4+ Requires an SE,P11+,323.66%
+782,207.43,P4+ Requires an SE,P11+,145.2,P4+ Requires an SE,P11+,324.11%
+783,207.71,P4+ Requires an SE,P11+,145.4,P4+ Requires an SE,P11+,324.55%
+784,208,P4+ Requires an SE,P11+,145.6,P4+ Requires an SE,P11+,325.00%
+785,208.29,P4+ Requires an SE,P11+,145.8,P4+ Requires an SE,P11+,325.45%
+786,208.57,P4+ Requires an SE,P11+,146,P4+ Requires an SE,P11+,325.89%
+787,208.86,P4+ Requires an SE,P11+,146.2,P4+ Requires an SE,P11+,326.34%
+788,209.14,P4+ Requires an SE,P11+,146.4,P4+ Requires an SE,P11+,326.79%
+789,209.43,P4+ Requires an SE,P11+,146.6,P4+ Requires an SE,P11+,327.23%
+790,209.71,P4+ Requires an SE,P11+,146.8,P4+ Requires an SE,P11+,327.68%
+791,210,P4+ Requires an SE,P11+,147,P4+ Requires an SE,P11+,328.12%
+792,210.29,P4+ Requires an SE,P11+,147.2,P4+ Requires an SE,P11+,328.57%
+793,210.57,P4+ Requires an SE,P11+,147.4,P4+ Requires an SE,P11+,329.02%
+794,210.86,P4+ Requires an SE,P11+,147.6,P4+ Requires an SE,P11+,329.46%
+795,211.14,P4+ Requires an SE,P11+,147.8,P4+ Requires an SE,P11+,329.91%
+796,211.43,P4+ Requires an SE,P11+,148,P4+ Requires an SE,P11+,330.36%
+797,211.71,P4+ Requires an SE,P11+,148.2,P4+ Requires an SE,P11+,330.80%
+798,212,P4+ Requires an SE,P11+,148.4,P4+ Requires an SE,P11+,331.25%
+799,212.29,P4+ Requires an SE,P11+,148.6,P4+ Requires an SE,P11+,331.70%
+800,212.57,P4+ Requires an SE,P11+,148.8,P4+ Requires an SE,P11+,332.14%
+801,212.86,P4+ Requires an SE,P11+,149,P4+ Requires an SE,P11+,332.59%
+802,213.14,P4+ Requires an SE,P11+,149.2,P4+ Requires an SE,P11+,333.04%
+803,213.43,P4+ Requires an SE,P11+,149.4,P4+ Requires an SE,P11+,333.48%
+804,213.71,P4+ Requires an SE,P11+,149.6,P4+ Requires an SE,P11+,333.93%
+805,214,P4+ Requires an SE,P11+,149.8,P4+ Requires an SE,P11+,334.37%
+806,214.29,P4+ Requires an SE,P11+,150,P4+ Requires an SE,P11+,334.82%
+807,214.57,P4+ Requires an SE,P11+,150.2,P4+ Requires an SE,P11+,335.27%
+808,214.86,P4+ Requires an SE,P11+,150.4,P4+ Requires an SE,P11+,335.71%
+809,215.14,P4+ Requires an SE,P11+,150.6,P4+ Requires an SE,P11+,336.16%
+810,215.43,P4+ Requires an SE,P11+,150.8,P4+ Requires an SE,P11+,336.61%
+811,215.71,P4+ Requires an SE,P11+,151,P4+ Requires an SE,P11+,337.05%
+812,216,P4+ Requires an SE,P11+,151.2,P4+ Requires an SE,P11+,337.50%
+813,216.29,P4+ Requires an SE,P11+,151.4,P4+ Requires an SE,P11+,337.95%
+814,216.57,P4+ Requires an SE,P11+,151.6,P4+ Requires an SE,P11+,338.39%
+815,216.86,P4+ Requires an SE,P11+,151.8,P4+ Requires an SE,P11+,338.84%
+816,217.14,P4+ Requires an SE,P11+,152,P4+ Requires an SE,P11+,339.29%
+817,217.43,P4+ Requires an SE,P11+,152.2,P4+ Requires an SE,P11+,339.73%
+818,217.71,P4+ Requires an SE,P11+,152.4,P4+ Requires an SE,P11+,340.18%
+819,218,P4+ Requires an SE,P11+,152.6,P4+ Requires an SE,P11+,340.62%
+820,218.29,P4+ Requires an SE,P11+,152.8,P4+ Requires an SE,P11+,341.07%
+821,218.57,P4+ Requires an SE,P11+,153,P4+ Requires an SE,P11+,341.52%
+822,218.86,P4+ Requires an SE,P11+,153.2,P4+ Requires an SE,P11+,341.96%
+823,219.14,P4+ Requires an SE,P11+,153.4,P4+ Requires an SE,P11+,342.41%
+824,219.43,P4+ Requires an SE,P11+,153.6,P4+ Requires an SE,P11+,342.86%
+825,219.71,P4+ Requires an SE,P11+,153.8,P4+ Requires an SE,P11+,343.30%
+826,220,P4+ Requires an SE,P11+,154,P4+ Requires an SE,P11+,343.75%
+827,220.29,P4+ Requires an SE,P11+,154.2,P4+ Requires an SE,P11+,344.20%
+828,220.57,P4+ Requires an SE,P11+,154.4,P4+ Requires an SE,P11+,344.64%
+829,220.86,P4+ Requires an SE,P11+,154.6,P4+ Requires an SE,P11+,345.09%
+830,221.14,P4+ Requires an SE,P11+,154.8,P4+ Requires an SE,P11+,345.54%
+831,221.43,P4+ Requires an SE,P11+,155,P4+ Requires an SE,P11+,345.98%
+832,221.71,P4+ Requires an SE,P11+,155.2,P4+ Requires an SE,P11+,346.43%
+833,222,P4+ Requires an SE,P11+,155.4,P4+ Requires an SE,P11+,346.87%
+834,222.29,P4+ Requires an SE,P11+,155.6,P4+ Requires an SE,P11+,347.32%
+835,222.57,P4+ Requires an SE,P11+,155.8,P4+ Requires an SE,P11+,347.77%
+836,222.86,P4+ Requires an SE,P11+,156,P4+ Requires an SE,P11+,348.21%
+837,223.14,P4+ Requires an SE,P11+,156.2,P4+ Requires an SE,P11+,348.66%
+838,223.43,P4+ Requires an SE,P11+,156.4,P4+ Requires an SE,P11+,349.11%
+839,223.71,P4+ Requires an SE,P11+,156.6,P4+ Requires an SE,P11+,349.55%
+840,224,P4+ Requires an SE,P11+,156.8,P4+ Requires an SE,P11+,350.00%
