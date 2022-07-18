@@ -52,10 +52,10 @@ sleep 1
 mkdir -p "/Users/$USER/.wp_engine_autoscope/"
 printf "\r\nDone.\r\n"
 
-dirvar=$(dir=$(find ~ -type d -name "*autoscope*" -print -quit 2>/dev/null); echo ${dir//' '/'\ '})
+dirvar=$(find ~ -type f -name "autoscope.sh" -print -quit 2>/dev/null | rev | cut -d'/' -f2- | rev) 
 
 printf "\r\nCopying Files...\r\n"
-cp -v "$dirvar"/autoscope.sh "$dirvar"/autoscopeinstalls.sh "$dirvar"/bsphcoreconversion.csv "$dirvar"/writeinstalls.py "$dirvar"/icon.png /Users/$USER/.wp_engine_autoscope/
+cp -v "$dirvar"/* /Users/$USER/.wp_engine_autoscope/
 
 filelocvar=$(find "/Users/$USER/.wp_engine_autoscope/" -type f -name "autoscope.sh" -print -quit 2>/dev/null)
 
